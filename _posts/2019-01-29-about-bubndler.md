@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Bundler"
+title:  "Abopput Bundler"
 author: sal
 categories: [ Jekyll ]
 image: assets/images/2.jpg
