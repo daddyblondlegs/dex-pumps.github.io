@@ -1,23 +1,23 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Jekyll Theme - daddyblondlegs by WowThemes.net
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+[Live Demo](https://wowthemesnet.github.io/daddyblondlegs-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/daddyblondlegs-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/daddyblondlegs-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/daddyblondlegs-wordpress/) 
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![daddyblondlegs jekyll theme screenshot](assets/images/screenshot.jpg)
 
 ### Documentation
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/daddyblondlegs-theme-jekyll/)
 
-### Contribute to Mundana repository
+### Contribute to daddyblondlegs repository
 
 1. In the top-right corner of this page, click **Fork**.
 
 2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
 
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+   `git clone https://github.com/YOUR-USERNAME/daddyblondlegs-theme-jekyll.git`
 
 3. **Create a branch**: 
 
@@ -48,4 +48,4 @@ Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under M
 
 ### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Live Demo](https://wowthemesnet.github.io/daddyblondlegs-theme-jekyll/)
