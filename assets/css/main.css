@@ -10,13 +10,12 @@
 
 :root {
   --blue: #7832e2;
-  --blond: #fff2cc;
   --indigo: #502c6c;
   --purple: #ad6edd;
   --pink: #ff0266;
   --red: #ea2f65;
   --orange: #fbb500;
-  --yellow: #ffde03;
+  --yellow: #fff2cc;
   --green: #03a87c;
   --teal: #09ebaf;
   --cyan: #35bdff;
@@ -8469,3 +8468,9 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+    /* Expanded image */
+.enlarged {
+  width: 400px;
+  height: 300px;
+}
