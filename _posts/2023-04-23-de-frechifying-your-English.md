@@ -53,7 +53,7 @@ This isn’t an attempt to challenge the English lexicon, just use of a theme, w
 
 ## EN VOGUE  
 
-****French maid****:  The streets are filthy and the only prostitutes I saw were Eastern European and Subsaharan immigrants. If there are French maids, _thay shure ain’t heer_. I heard that in order to better protect vulnerable women, France made prostitution only illegal for the johns-side of the deal.
+**French maid**:  The streets are filthy and the only prostitutes I saw were Eastern European and Subsaharan immigrants. If there are French maids, _thay shure ain’t heer_. I heard that in order to better protect vulnerable women, France made prostitution only illegal for the johns-side of the deal.
 
 **French blue**: Neither the same color as what’s on their ever-beloved flag nor all that common in their clothing. The name probably was an attempt to classy-up a particular hue. In America, I remember noticing that every single person in one of my classes, without exception, was wearing blue jeans; yet in France, they’re still somewhat exotic. Though it’s common to see people wearing blue denim, it’s much less so than skirts, hosiery, and pseudo-slacks; the general color palette of any given crowd is generally browns, blacks, and grays. Shirts with the logo of Levi’s (pronounced like the plural of _levy_, the thing that Bob Dylan drove his Chevy to) were one of the biggest things trending over there, and the brand’s jeans are like $120 a pair in some stores.  
 
