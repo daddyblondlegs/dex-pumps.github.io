@@ -127,6 +127,10 @@ dfn {
   font-style: italic; }
 
 b,
+
+light { 
+  font-weight: lighter; } 
+
 strong {
   font-weight: bolder; }
 

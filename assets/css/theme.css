@@ -1,5 +1,5 @@
 /*!
- * daddyblondlegs Jekyll Theme (https://www.wowthemes.net/daddyblondlegs-jekyll-theme/)
+ * daddyblondlegs
  */
 
 body {
@@ -205,7 +205,7 @@ a.text-dark:hover {
 .navbar-brand {
 	margin-right:2rem;
 	font-size:1.55rem;
-    font-family:"Georgia","Times New Roman",serif;
+    font-family:"helvetica","Times New Roman",serif;
 }
 .dropdown-item {
 	font-weight:400;
@@ -674,7 +674,7 @@ article blockquote {
 }
 article blockquote:before {
 	content:"“";
-	font-family:Georgia;
+	font-family:helvetica;
 	font-size:8rem;
 	margin:-1rem 2rem 0 -3.9rem;
 	position:absolute;
