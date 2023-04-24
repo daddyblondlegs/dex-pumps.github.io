@@ -51,6 +51,7 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+future: true
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
