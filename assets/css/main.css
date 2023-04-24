@@ -8474,3 +8474,26 @@ html {
   width: 400px;
   height: 300px;
 }
+
+/*2 COLUMNS */
+* {
+  box-sizing: border-box;
+}
+
+.column2 {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+.column3 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
