@@ -12,12 +12,12 @@ permalink: "/gear-reviews.html"
       {% for category in site.categories cycling %} 
       <h4>Gear Review</h4>
           
-      {% assign pages_list = category[1] %}
+      {% assign pages_list = cycling %}
       {% for post in pages_list %}
       {% if post.title != null %}
         {% if group == null or group == post.group %}
        
-          {% include main-loop-card.html %}
+      
         {% endif %}
       {% endif %}
       {% endfor %}
@@ -34,3 +34,14 @@ permalink: "/gear-reviews.html"
       
   </div>
 </div>
+
+
+<p>Posts in category "basic" are:</p>
+
+<ul>
+  {% for post in site.categories.cycling %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
