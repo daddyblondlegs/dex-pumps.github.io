@@ -4,19 +4,12 @@ layout: default
 permalink: "/gear-reviews.html"
 ---
 
-<div class="row justify-content-center">
-  <div class="col-md-8">
-  <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
-  {% for category in site.categories %} 
-        <h4 class="font-weight-bold spanborder text-capitalize" id="cycling"><span>Cycling</span></h4>
-            
+<p>Cycling</p>
 
-        {% include main-loop-card.html %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-
-        {% endfor %}
-
+<ul>
+  {% for post in site.categories.cycling %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
