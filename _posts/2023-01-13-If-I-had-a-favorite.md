@@ -3,7 +3,7 @@ layout: post
 title:  "If I had a favorite place"
 author: Elliot
 categories: [ Cycling, fun ]
-image: assets/images/home.jpg
+image: https://64.media.tumblr.com/842c1a36dca55ce3923b5aa706a358b6/tumblr_inline_pigb2qyBbn1tz5xrk_1280.jpg
 tags: [sticky]
 ---
 
@@ -23,7 +23,7 @@ The tower only grew as I approached, and there was nothing to suggest that it ha
 Several of the platforms of its upper tiers had collapsed into a piles around it, inscriptions surpassed the extent of my Chinese, and a headless soldier stood propped against a tree. The pagoda had been mysterious enough at a distance but was only more so standing there in front of it.
 Returning with a friend who could call for help if need be, I braved to make my way up onto the tower’s first tier by climbing a group of stairs in the miniaturized space. Getting to the second tier required exiting a hole and scuttling around the exterior ledge a quarter of the way around before ducking back into an entryway. There was a second set of stairs leading to the third tier, and I repeated this until making my way to the fourth, though as the tower narrowed, it only became more precarious. However, I can only imagine how incredible it would have been to have gone to the sixth or seventh level when it was first built.
 
-image: assets/images/home.jpg
+<img width:100% src="https://64.media.tumblr.com/f59749d02c3a7a57e94f94a37b1748e5/tumblr_inline_piga7yU05A1tz5xrk_1280.jpg">
 
 I’ve since considered this to be my favorite place (if I had one), and though it doesn’t have the beauty to rival the peaks of the Himalayas or the craftsmanship of the temples of Kyoto, it was something that I’d discovered myself. Anyone could see it from the adjacent mountain as I had, but few had come this close much less been brave enough to climb up inside it. Visiting one last time before my year in Fuqing ended, the hillside forest beside it had been stripped bare by loggers, and the soldier lay flat on his back. The impression, however, of my initial experience there was strong enough to return the denseness of the trees and all of the feelings that accompanied the air of that first evening. It’s my favorite place not because of anything I can convey through pictures but because it’s something that is tied within me. 
  
