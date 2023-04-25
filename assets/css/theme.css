@@ -614,17 +614,17 @@ a.text-dark:hover {
 ul.list-unstyled li {
 	margin-bottom:.3rem;
 }
-ol.list-featured {
+ol.list-favorites {
 	counter-reset:my-awesome-counter;
 	list-style:none;
 	padding-left:0;
 }
-ol.list-featured li {
+ol.list-favorites li {
 	counter-increment:my-awesome-counter;
 	display:flex;
 	font-size:0.8rem;
 }
-ol.list-featured li:before {
+ol.list-favorites li:before {
     content: "0" counter(my-awesome-counter);
     font-weight: bold;
     font-size: 2rem;
