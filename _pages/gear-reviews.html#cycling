@@ -3,6 +3,12 @@ title: "Gear Reviews"
 layout: default
 permalink: "/gear-reviews.html"
 ---
+ <small class="d-block text-muted">
+		In <span class="catlist">
+		{% for category in post.categories %}
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{cycling}">{{ category }}</a><span class="sep">, </span>
+		{% endfor %}
+		</span>
 
 <div class="container">
     <div class="row justify-content-center">
