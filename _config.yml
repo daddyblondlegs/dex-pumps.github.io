@@ -51,7 +51,15 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
-
+jekyll-archives:
+  enabled: all
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+collections:
+  category:
+    output: true
