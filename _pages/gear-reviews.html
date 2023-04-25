@@ -4,38 +4,6 @@ layout: default
 permalink: "/gear-reviews.html"
 ---
 
-<div class="container">
-  <div class="row justify-content-center">
-      <div class="col-md-8">
-      <h1 class="font-weight-bold title h6 text-uppercase mb-4">Cycling</h1>
-          
-      {% for category in site.categories cycling %} 
-      <h4>Gear Review</h4>
-          
-      {% assign pages_list = cycling %}
-      {% for post in pages_list %}
-      {% if post.title != null %}
-        {% if group == null or group == post.group %}
-       
-      
-        {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% assign pages_list = nil %}
-      {% assign group = nil %}
-
-      {% endfor %}
-
-      </div>
-      
-          <div class="col-md-4">
-      {% include sidebar-featured.html %}    
-  </div>
-      
-  </div>
-</div>
-
-
 <p>Posts in category "basic" are:</p>
 
 <ul>
