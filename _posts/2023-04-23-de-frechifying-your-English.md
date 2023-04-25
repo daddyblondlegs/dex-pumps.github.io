@@ -3,6 +3,7 @@ layout: post
 title:  "De-Frechifying your English"
 categories: [ Jekyll ]
 image: assets/images/frenchdoors.jpg
+tag: [cycling]
 ---
 
 ### De-Frechifying your English
