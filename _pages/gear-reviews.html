@@ -14,23 +14,3 @@ permalink: "/gear-reviews.html"
   {% endfor %}
 </ul>
 
-<h2>Question + Ruby</h1>
-  <ul>
-  {% for post in site.posts %}
-    {% if post.categories contains 'cycling' %}
-        <li><a href="{{ post.url }}">{{post.title}}</a></li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-  </ul>
-  <br />
-  <h2>Question + Java</h1>
-  <ul>
-  {% for post in site.posts %}
-    {% if post.categories contains 'cycling' %}
-      {% if post.categories contains 'fun' %}
-        <li><a href="{{ post.url }}">{{post.title}}</a></li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-  </ul>
