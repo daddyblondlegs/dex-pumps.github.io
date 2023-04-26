@@ -1,0 +1,14 @@
+---
+title: "Gear Reviews 3"
+layout: default
+permalink: "/gear-reviews3.html"
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains 'cycling' %}
+    
+#### [{{post.title}}]({{post.url}})<br/><small>{{ post.date | date_to_long_string }}</small>
+By: {{post.author}}
+    
+  {% endif %}
+{% endfor %}
