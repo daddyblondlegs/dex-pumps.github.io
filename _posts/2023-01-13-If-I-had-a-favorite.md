@@ -2,7 +2,7 @@
 layout: post
 title:  "If I had a favorite place"
 author: Elliot
-categories: [ Cycling, fun ]
+categories: [ Cycling, Fun ]
 image: https://64.media.tumblr.com/842c1a36dca55ce3923b5aa706a358b6/tumblr_inline_pigb2qyBbn1tz5xrk_1280.jpg
 tags: [sticky]
 ---
