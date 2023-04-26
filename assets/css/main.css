@@ -28,7 +28,7 @@
   --success: #03a87c;
   --info: #09ebaf;
   --warning: #ffde03;
-  --danger: #ea2f65;
+  --danger: #e9df90;
   --light: #f8f9fa;
   --dark: #212529;
   --white: #fff;
@@ -1603,7 +1603,7 @@ textarea.form-control {
   font-size: 0.875rem;
   line-height: 1.6;
   color: #fff;
-  background-color: rgba(234, 47, 101, 0.9);
+  background-color: #e9df90;
   border-radius: 0.25rem; }
 
 .was-validated .form-control:invalid, .form-control.is-invalid, .was-validated
