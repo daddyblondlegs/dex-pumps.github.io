@@ -7,9 +7,6 @@ image: assets/images/fuqing_tower.jpg
 tags: [sticky]
 ---
 
-# If I had a favorite place
-
-
 <p style="text-align:justify">I could see it extending just above the treetops, looking out across at it from a mountain temple. The stone tower stood in solitude on a hill unaccompanied by such crowds as were around me then. There was something unsettling about it and how the trees surrounding it were so tightly-knit that it seemed like the tower was rising from the sea. My goal became to go there, up close, no matter what I'd have to climb through to get there.</p>
 
 <p>Not knowing exactly how to get there, I struggled to tell the man driving a three-wheeled cart where to go until at last, the gravel road ended. I set out on foot up a ruddy dirt road and came to the lot of a large, vacated building in some way connected with the reservoir. By a stroke of luck, I managed to spot a quivering trail not made by more than dozen feet and followed it over an embankment. The path led through the forest, which somehow had a healthy bed of grass beneath the dense canopy above, and I continued along trying to discern it from the routes of dried streams and other indentions. Soon the hill became steep enough on both sides that the trail was no longer needed to navigate, but I still wasn't sure where it led or if it was just a goat path back to a small farm.</p>

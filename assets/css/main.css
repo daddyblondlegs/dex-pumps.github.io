@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-<link rel="icon" href="daddyblondlegs.github.io/favicon.ico?v=2" />
+
  
 
 :root {
@@ -68,13 +68,13 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: "Segoe UI", "Helvetica Neue", "Arial";
+  font-family: "Helvetica Neue", "Segoe UI", "Arial";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.6;
   color: #212529;
-  text-align: left;
-  background-color: #fff; }
+  text-align: justify;
+  background-color: #fdfdf8; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -8480,21 +8480,6 @@ html {
 
 #myImg:hover {opacity: 0.7;}
 
-/* The Modal (background) */
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
-}
-
 /* Modal Content (Image) */
 .modal-content {
   margin: auto;
@@ -8550,7 +8535,7 @@ html {
     width: 100%;
   }
 } 
-}
+
 
 
 
