@@ -8600,9 +8600,9 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 80px;
 }
 
-.about-timeline{background-color:#f3f3f3; padding: 10px 0 0px;}
+.about-timeline{background-color:#dad2be; padding: 10px 0 0px;}
 
-.timeline-box h6{font-size: 55px; line-height: 1; color: #d21e1e; font-weight: 700; font-family: 'Poppins', sans-serif;background-color: #f3f3f3;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin-top: 0; transform: translate(0,-50%);} 
+.timeline-box h6{font-size: 55px; line-height: 1; color: #ffe696; font-weight: 700; font-family: 'Poppins', sans-serif;background-color: #f3f3f3;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin-top: 0; transform: translate(0,-50%);} 
 
 .timeline-box p{font-size: 18px; line-height: 27px; color: #000000; font-weight: 400;margin-bottom: 26px;font-family: 'Inter', sans-serif;} 
 .timeline-box p:last-of-type{margin-bottom:15px;} 
