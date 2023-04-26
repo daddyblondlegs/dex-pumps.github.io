@@ -3,9 +3,14 @@ title: "Gear Reviews"
 layout: default
 permalink: "/gear-reviews.html"
 ---
+<div class="row mt-3">
+   
+  <div class="col-md-8 main-loop">
+      
+      <h4 class="font-weight-bold spanborder"><span>Gear Reviews</span></h4>
+      <span style="display:inline-block; width: 10px;"></span>
+      <h5 class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-yellow position-relative"><span>Here are a few articles on the gear that I've personally used, none of which have affiliate links or strings attached. Kind of a whiner when it comes to my expectations, especially when you spend $300 on a sleeping bag that rips.</span></h5>
 
-
-    <h2>Gear Reviews</h1>
     <ul>
     {% for post in site.posts %}
       {% if post.categories contains 'Cycling' %}
@@ -41,3 +46,9 @@ permalink: "/gear-reviews.html"
       {% endif %}
     {% endfor %}
     </ul>
+
+  </div>
+
+
+
+</div>
