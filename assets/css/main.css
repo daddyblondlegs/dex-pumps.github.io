@@ -3998,7 +3998,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #fff2cc;
+  background-color: #ffe696;
   border-radius: 0.3rem; }
   @media (min-width: 576px) {
     .jumbotron {
@@ -4008,6 +4008,12 @@ input[type="button"].btn-block {
   padding-right: 0;
   padding-left: 0;
   border-radius: 0; }
+
+.textbox {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #ffe696;
+}   
 
 .alert {
   position: relative;
