@@ -3,7 +3,7 @@ layout: post
 title:  "If I had a Favorite Place"
 author: Elliot
 categories: [ Cycling, Fun ]
-image: assets/images/Fuqing_tower.jpg
+image: assets/images/fuqing_tower.jpg
 tags: [sticky]
 ---
 
