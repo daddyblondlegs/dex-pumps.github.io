@@ -35,8 +35,8 @@
   --purple: #ad6edd;
   --salmon: #ff977a;
   --cyan: #35bdff;
-  --gray: #ced4da;
-  --indigo: #502c6c;
+  --blond: #fff6d9;
+  --daddybrown: #dad2be;
   --orange: #fbb500;
   --lightblue: #e8f3ec;
   --breakpoint-xs: 0;
@@ -73,7 +73,7 @@ body {
   font-weight: 400;
   line-height: 1.6;
   color: #212529;
-  text-align: justify;
+  text-align: left;
   background-color: #fdfdf8; }
 
 [tabindex="-1"]:focus {
@@ -90,7 +90,9 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem; 
+  text-align: justify;
+}
 
 abbr[title],
 abbr[data-original-title] {
@@ -8675,7 +8677,7 @@ h1, h2, h3, h4, h5, h6 {
 .timeline-box {max-width: 380px;}
 .timeline-box.img-right .timeline-content img, .timeline-box.img-left .timeline-content img {max-width: 180px; max-height: 190px;}
 .timeline-box h6 {font-size: 50px;}
-.about-timeline {padding: 120px 0 100px;}
+.about-timeline {padding: 0px 0 100px;}
 .timeline-box p {font-size: 16px;}
 }
 
@@ -8749,24 +8751,4 @@ h1, h2, h3, h4, h5, h6 {
 .timeline-box::after, .timeline-row:nth-child(2n+1) .timeline-box::after {top: 6px;}
 .timeline-box-wrap .timeline-content img {max-width: 100%;}
 .timeline-box.img-right .timeline-content img, .timeline-box.img-left .timeline-content img {max-width: 100%; max-height: unset;}
-}
-
-.pagination a, .pagination span {
-  padding: 7px 18px;
-  border: 1px solid #eee;
-  margin-left: -2px;
-  margin-right: -2px;
-  background-color: #ffffff;
-  display: inline-block;
-}
-
-.pagination a {    
-  &:hover {
-      background-color: #f1f1f1;
-      color: #333;
-  }
-}
-
-.pagination {
-  text-align: center;
 }

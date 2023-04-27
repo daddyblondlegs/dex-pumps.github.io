@@ -9,6 +9,7 @@ body {
 .site-content {
 	margin-top:30px;
 	min-height:400px;
+	background-image: linear-gradient(#fff, #fff6d9);
 }
 .remove-site-content-margin {
 	margin-top:-30px;
@@ -31,10 +32,10 @@ a,a:hover {
 	text-decoration:none;
 }
 a {
-	color:#03a87c;
+	color:#dad2be;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color:#ffe696 !important;
 }
 .c-pointer:hover {
 	cursor:pointer;

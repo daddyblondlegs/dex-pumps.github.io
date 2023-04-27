@@ -78,9 +78,9 @@ layout: default
 				</span>
 			</div>
  
-            <!-- Mailchimp Subscribe Form--> 
-            <!--{% if site.mailchimp-list %}-->
-			<div class="border p-5 bg-lightblue">
+            <!-- Mailchimp Subscribe Form {% if site.mailchimp-list %}  {% endif %}--> 
+            
+			<div class="border p-5 bg-daddybrown">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
 						<h5 class="font-weight-bold">Join Newsletter</h5>
@@ -94,18 +94,19 @@ layout: default
 							
 							
 								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
-							<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bc4754295ec6ef70786727020_bbfaae0b9f" tabindex="-1" value=""></div>
-	<div class="optionalParent">
-		<div class="clear foot">
-			<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+							
                             </div>
                             </form>
 						</div>
 					</div>
 				</div>
 			</div>
-            <!--{% endif %}-->
+           
+			<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bc4754295ec6ef70786727020_bbfaae0b9f" tabindex="-1" value=""></div>
+			<div class="optionalParent">
+				<div class="clear foot">
+					<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
 
 			<!-- Begin Mailchimp Signup Form 
 </style>
