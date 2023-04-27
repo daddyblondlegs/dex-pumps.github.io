@@ -50,6 +50,7 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
+paginate_path: /page:num/
 
 jekyll-archives:
   enabled: all
