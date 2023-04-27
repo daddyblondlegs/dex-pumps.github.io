@@ -78,8 +78,8 @@ layout: default
 				</span>
 			</div>
  
-            <!-- Mailchimp Subscribe Form -->
-            {% if site.mailchimp-list %}
+            <!-- Mailchimp Subscribe Form--> 
+            <!--{% if site.mailchimp-list %}-->
 			<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
@@ -88,23 +88,26 @@ layout: default
 					</div>
 					<div class="col-md-6">
 						<div class="row">
-                            <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
-                            <div class="mc-field-group">
+							<form action="https://gmail.us21.list-manage.com/subscribe/post?u=bc4754295ec6ef70786727020&amp;id=bbfaae0b9f&amp;f_id=00c6b3e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>                            <div class="mc-field-group">
 							
 								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
 							
 							
 								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
-							
+							<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bc4754295ec6ef70786727020_bbfaae0b9f" tabindex="-1" value=""></div>
+	<div class="optionalParent">
+		<div class="clear foot">
+			<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
                             </div>
                             </form>
 						</div>
 					</div>
 				</div>
 			</div>
-            {% endif %}
+            <!--{% endif %}-->
 
-			<!-- Begin Mailchimp Signup Form -->
+			<!-- Begin Mailchimp Signup Form 
 </style>
 <div class="border p-5 bg-lightblue">
 	<div class="row justify-content-between">
@@ -122,7 +125,7 @@ layout: default
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	</div> -->   <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bc4754295ec6ef70786727020_bbfaae0b9f" tabindex="-1" value=""></div>
         <div class="optionalParent">
             <div class="clear foot">
@@ -136,7 +139,7 @@ layout: default
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
             
-             <!-- Author Box -->
+             <!-- Author Box
                 {% if page.author %}				
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
@@ -149,15 +152,15 @@ layout: default
 						{{ author.bio }}					
 					</div>
 				</div>				
-                {% endif %}
+                {% endif %}-->
             
-            <!-- Comments -->
-            {% if page.comments != false %}
-                {% include comments.html %}
-            {% endif %}
+            
             
 		</div>
-        
+        <!-- Comments -->
+		{% if page.comments != false %}
+		{% include comments.html %}
+	{% endif %}
         
 	</div>
 </div>
