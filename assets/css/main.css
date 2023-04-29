@@ -3767,7 +3767,7 @@ input[type="button"].btn-block {
 
 .breadcrumb-item.active {
   color: #6c757d; }
-/*
+
 .pagination {
   display: flex;
   padding-left: 0;
@@ -3776,7 +3776,7 @@ input[type="button"].btn-block {
   font-size: 14px;
   font-weight: 600;
 }
-*/
+
 .page-link {
   position: relative;
   display: block;

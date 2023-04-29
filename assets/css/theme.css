@@ -8,6 +8,7 @@ body {
 }
 .site-content {
 	margin-top:30px;
+	padding-bottom: 30px;
 	min-height:400px;
 	
 }
@@ -637,8 +638,7 @@ ol.list-featured li:before {
 .catlist .sep:last-child {
 	display:none;
 }
-footer {
-	margin-top:50px;
+footer { 
 	z-index:1022;
 	position:relative;
 }
