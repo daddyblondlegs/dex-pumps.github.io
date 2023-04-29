@@ -647,6 +647,7 @@ footer {
 }
 .homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
 	display:none !important;
+	background-image: linear-gradient(#fff, #dad2be);
 }
 .excerpt {
     color: rgba(0,0,0,0.59);
