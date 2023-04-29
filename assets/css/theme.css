@@ -9,7 +9,7 @@ body {
 .site-content {
 	margin-top:30px;
 	min-height:400px;
-	background-image: linear-gradient(#fff, #fff6d9);
+	
 }
 .remove-site-content-margin {
 	margin-top:-30px;
