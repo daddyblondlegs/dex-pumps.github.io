@@ -94,6 +94,8 @@ p {
   text-align: justify;
 }
 
+video { padding: 3rem 0px;}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -188,6 +190,7 @@ pre {
   -ms-overflow-style: scrollbar;
 }
 
+}
 figure {
   margin: 0 0 1rem; }
 
@@ -195,6 +198,7 @@ img {
   vertical-align: middle;
   border-style: none; }
 
+  
 svg {
   overflow: hidden;
   vertical-align: middle; }
