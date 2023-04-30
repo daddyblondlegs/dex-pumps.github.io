@@ -8756,3 +8756,91 @@ h1, h2, h3, h4, h5, h6 {
 .timeline-box.img-right .timeline-content img, .timeline-box.img-left .timeline-content img {max-width: 100%; max-height: unset;}
 }
 
+/** lightbox **/
+#lightbox {
+  background-color: #fff;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999999;
+  display: none;
+  text-align: center;
+  overflow: auto;
+}
+#lightbox-content img {
+  max-width: 100%;
+  max-height: 100%;
+  display: inline-block;
+  padding: 60px 0px;
+}
+#lightbox-content{
+  
+  max-width: calc(100% - 120px);
+  margin:auto;
+}
+#lightbox-control {
+  font-size: 19pt;
+  position: fixed;
+  top: 5px;
+  left: 20px;
+  color: #222;
+  display:none;
+}
+
+#lightbox-control *{
+  display:inline-block;
+  cursor:pointer;
+}
+#lightbox-photoset {
+  padding-bottom: 50px
+}
+#lightbox-content[data-type="photo"] {
+  vertical-align: middle;
+  position: relative;
+  top: 50%;
+  max-height: 100%;
+  transform: translateY(-50%);
+}
+.lightbox-image img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#lightbox-content[data-type="photoset"] {
+  max-height: 100%;
+  height: calc(100% - 120px);
+}
+#lightbox-content[data-type="photoset"] .lightbox-image {
+  height: 100%;
+}
+#lightbox-close {
+  position: fixed;
+  top: -5px;
+  right: 30px;
+  color: #222222;
+  font-size: 30pt;
+  cursor: pointer;
+}
+#lightbox-photoset span {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  margin: 3px;
+}
+/**media**/
+
+@media screen and (max-width: 730px) {
+
+  #lightbox-content[data-type="photoset"] {
+      height: 100%;
+  }
+  #lightbox-control {
+      display:block;
+}
+}
+/** lightbox **/
