@@ -6,7 +6,7 @@ image: https://64.media.tumblr.com/76751d2246e3a752bf48c48f0fc8826d/987040df8826
 tag: [China]
 ---
 
-<video controls="controls" autoplay="autoplay" muted="muted" poster="https://64.media.tumblr.com/7aa420222cad9f7e48592451c4e3b0ee/987040df88261879-41/s540x810/29bb6febdd9acfd5cca974c606ed246d1812bb7e.jpg"><source src="https://va.media.tumblr.com/tumblr_r4ka11LI2P1ubdk8f_720.mp4" type="video/mp4"></video>
+<video controls="controls" autoplay="autoplay" muted="muted" poster="https://va.media.tumblr.com/tumblr_r7aa49L1Kf1ubdk8f.mp4"><source src="https://va.media.tumblr.com/tumblr_r4ka11LI2P1ubdk8f_720.mp4" type="video/mp4"></video>
 
 
 <p>Merry Christmas! This year I got to check off something that&rsquo;s mostly likely because I live in China and not because I&rsquo;m pretty. Usually making commercials in Shenzhen starts with contacting a modelling agency and getting catfished by Eastern Europeans on disposable visas. Good actors are out of the question. My team sometimes steps in to be a white face, and generally I&rsquo;d save the feeling of embarrassment for another occasion, but when faced with the possibility of getting to be in a Christmas commercial, actually volunteered. My team was skeptical, &ldquo;Wait, really?&rdquo;</p>
