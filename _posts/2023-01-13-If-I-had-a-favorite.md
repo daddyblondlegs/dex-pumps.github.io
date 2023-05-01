@@ -12,7 +12,6 @@ tags: [sticky]
 <p>Not knowing exactly how to get there, I struggled to tell the man driving a three-wheeled cart where to go until at last, the gravel road ended. I set out on foot up a ruddy dirt road and came to the lot of a large, vacated building in some way connected with the reservoir. By a stroke of luck, I managed to spot a quivering trail not made by more than dozen feet and followed it over an embankment. The path led through the forest, which somehow had a healthy bed of grass beneath the dense canopy above, and I continued along trying to discern it from the routes of dried streams and other indentions. Soon the hill became steep enough on both sides that the trail was no longer needed to navigate, but I still wasn't sure where it led or if it was just a goat path back to a small farm.</p>
 
 <p>&nbsp;</p>
-<a href="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg">DThis</a><a href="/assets/images/1.jpg">local</a>
 
 <p><a href="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg"><img alt="image" src="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg" style="width:100%" /></a></p>
 
@@ -24,9 +23,9 @@ tags: [sticky]
 
 <p>&nbsp;</p>
 
-<p><img alt="image" src="https://64.media.tumblr.com/842c1a36dca55ce3923b5aa706a358b6/tumblr_inline_pigb2qyBbn1tz5xrk_1280.jpg" style="width:100%"/></p>
+<p><a alt="image" href="https://64.media.tumblr.com/842c1a36dca55ce3923b5aa706a358b6/tumblr_inline_pigb2qyBbn1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/842c1a36dca55ce3923b5aa706a358b6/tumblr_inline_pigb2qyBbn1tz5xrk_1280.jpg" style="width:100%"/></a></p>
 
-<p><img alt="image" src="https://64.media.tumblr.com/f59749d02c3a7a57e94f94a37b1748e5/tumblr_inline_piga7yU05A1tz5xrk_1280.jpg" style="width:100%"/></p>
+<p><a href="https://64.media.tumblr.com/f59749d02c3a7a57e94f94a37b1748e5/tumblr_inline_piga7yU05A1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/f59749d02c3a7a57e94f94a37b1748e5/tumblr_inline_piga7yU05A1tz5xrk_1280.jpg" style="width:100%"/></a></p>
 
 <p>&nbsp;</p>
 
@@ -36,7 +35,7 @@ tags: [sticky]
 
 <p>&nbsp;</p>
 
-<p><img alt="image" src="https://64.media.tumblr.com/9ed567fea609c6b5137bd0645b8a45fa/tumblr_inline_piga9hPuNd1tz5xrk_1280.jpg" style="width:100%" /></p>
+<p><a href="https://64.media.tumblr.com/9ed567fea609c6b5137bd0645b8a45fa/tumblr_inline_piga9hPuNd1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/9ed567fea609c6b5137bd0645b8a45fa/tumblr_inline_piga9hPuNd1tz5xrk_1280.jpg" style="width:100%" /></a></p>
 
 <p>&nbsp;</p>
 
@@ -44,4 +43,5 @@ tags: [sticky]
 
 <p>&nbsp;</p>
 
-<p><img alt="image" src="https://64.media.tumblr.com/b1baa44b795fc5edcd65fad6b7ecc1c9/tumblr_inline_pigakd8bia1tz5xrk_1280.jpg" style="width:100%" /></p>
+<p><a href="https://64.media.tumblr.com/b1baa44b795fc5edcd65fad6b7ecc1c9/tumblr_inline_pigakd8bia1tz5xrk_1280.jpg"><img alt="image" src="https://64.media.tumblr.com/b1baa44b795fc5edcd65fad6b7ecc1c9/tumblr_inline_pigakd8bia1tz5xrk_1280.jpg" style="width:100%" /></a></p>
+
