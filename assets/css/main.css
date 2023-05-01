@@ -8613,7 +8613,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .timeline-box h6{font-size: 55px; line-height: 1; color: #e11107; font-weight: 100; font-family: 'Helvetica Neue', sans-serif;background-color: ;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin: -2em; transform: translate(0,-50%);} 
 
-.timeline-box p{font-size: 18px; line-height: 27px; color: #000000; font-weight: 400;margin-bottom: 26px;font-family: 'Inter', sans-serif;} 
+.timeline-box p{font-size: 18px; line-height: 27px; color: #000000; font-weight: 400;margin-bottom: 26px;font-family: 'Inter', sans-serif; text-align:center} 
 .timeline-box p:last-of-type{margin-bottom:15px;} 
 .start-point h4{font-size: 17px; line-height: 23px; color: #ffffff; font-weight: 600;text-transform: uppercase;background-color: #d21e1e;border-radius: 16px;display: block; width: auto; text-align: center; padding: 5px 25px;position: relative;margin-bottom: 45px;font-family: 'Inter',sans-serif;} 
 .black-dot{width: 21px;height: 21px;background-color: #000;border-radius: 50%;display: block;margin: 0 auto 62px;z-index: 1;} 
