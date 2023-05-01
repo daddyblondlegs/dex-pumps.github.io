@@ -94,7 +94,10 @@ p {
   text-align: justify;
 }
 
-video { padding: 3rem 0px;}
+video { 
+  padding: 3rem 0px;
+  max-width: 100%;
+}
 
 abbr[title],
 abbr[data-original-title] {
