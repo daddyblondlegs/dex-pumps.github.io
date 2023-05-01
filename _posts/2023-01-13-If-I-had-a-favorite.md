@@ -12,8 +12,9 @@ tags: [sticky]
 <p>Not knowing exactly how to get there, I struggled to tell the man driving a three-wheeled cart where to go until at last, the gravel road ended. I set out on foot up a ruddy dirt road and came to the lot of a large, vacated building in some way connected with the reservoir. By a stroke of luck, I managed to spot a quivering trail not made by more than dozen feet and followed it over an embankment. The path led through the forest, which somehow had a healthy bed of grass beneath the dense canopy above, and I continued along trying to discern it from the routes of dried streams and other indentions. Soon the hill became steep enough on both sides that the trail was no longer needed to navigate, but I still wasn't sure where it led or if it was just a goat path back to a small farm.</p>
 
 <p>&nbsp;</p>
+<a href="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg">DThis</a><a href="/assets/images/1.jpg">local</a>
 
-<p><img alt="image" src="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg" style="width:100%" /></p>
+<p><a href="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg"><img alt="image" src="https://64.media.tumblr.com/34a6240ac28c535471e8d7ec037d1873/tumblr_inline_piga8rSxxQ1tz5xrk_640.jpg" style="width:100%" /></a></p>
 
 <p>&nbsp;</p>
 
