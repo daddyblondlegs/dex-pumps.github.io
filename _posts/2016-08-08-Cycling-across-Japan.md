@@ -6,6 +6,10 @@ image: https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyd
 tags: [Japan, cycling]
 ---
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=702962#6/36.642/139.065"></iframe><p><a href="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968" style="position: relative;right: 60%;">See full screen</a></p>
 
 <p>&nbsp;</p>
@@ -15,8 +19,9 @@ tags: [Japan, cycling]
 Distance: 1330mi (2140km)  
 Hottest: 97°F (36°C) Koka, July 30<br>
 Furthest: 100mi (160km) Oshu to Sanohe<br>
-Days Slept Outside: 19&nbsp;<br>
-Number of mosquito bites: ∞</p>
+Days Slept Outside: 19<br>
+Number of mosquito bites: ∞
+<a href="https://64.media.tumblr.com/6311570fd224f8876cb540e17aabeeb7/tumblr_ocmjmrUhy91ubdk8fo1_1280.jpg" target="_self">Bike+Gear</a></p>
 
 <p>&nbsp;</p>
 
@@ -27,20 +32,23 @@ Number of mosquito bites: ∞</p>
 <p>The ferry&#39;s ramp lowered on the dock at Fukuoka. Now it was just me, a hiking backpack, and a bike I bought used. The excitement started to build as a I wheeled out on to the hard ground of a country I revered. It was intimidating to &quot;do Japan&quot; without much experience cycling, and then trying to succeed with just a hiking bag strapped onto the back of a bike with different colored rims. United Colors of Benton? Never heard of that brand.</p>
 
 <p>But it was happening.&nbsp; It was time to intrude a place I had so much respect for. Time to add a badge of pride that I cycled across Japan. Riding acround Taiwan didn&#39;t turn me into a real man like I&#39;d hoped, but this trip surely would.</p>
+<p>&nbsp;</p>
 
 <p><img src="https://64.media.tumblr.com/8ff66ddf1abbd5244d76edd20051fb59/tumblr_ocjfvaVUJk1ubdk8fo1_1280.jpg" /></p>
 
+<p>&nbsp;</p>
 <p>Japan was full of a weirdness that wasn&#39;t just anime, cosplay, or chindogu (the art of useless inventions). It was everywhere in daily life, sometimes not even to be seen. These tombstones weren&#39;t part of a tourist attraction. They were hidden from plain sight alongside the highway. Carved to have a visual aspect, but still tucked out of the way.</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/054753e0624b0ddcaf8d695745f72613/tumblr_ocjgqeRrW21ubdk8fo4_1280.jpg"><img alt="" class="Column2" src="https://64.media.tumblr.com/054753e0624b0ddcaf8d695745f72613/tumblr_ocjgqeRrW21ubdk8fo4_1280.jpg" style="height:567px; width:1280px" /></a><a href="https://64.media.tumblr.com/906f8b37d6a20cd16762fa346d045ef5/tumblr_ocjgqeRrW21ubdk8fo2_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/906f8b37d6a20cd16762fa346d045ef5/tumblr_ocjgqeRrW21ubdk8fo2_1280.jpg" style="height:960px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/054753e0624b0ddcaf8d695745f72613/tumblr_ocjgqeRrW21ubdk8fo4_1280.jpg"><img alt="" class="Column2" src="https://64.media.tumblr.com/054753e0624b0ddcaf8d695745f72613/tumblr_ocjgqeRrW21ubdk8fo4_1280.jpg" style="height:567px; " /></a><a href="https://64.media.tumblr.com/906f8b37d6a20cd16762fa346d045ef5/tumblr_ocjgqeRrW21ubdk8fo2_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/906f8b37d6a20cd16762fa346d045ef5/tumblr_ocjgqeRrW21ubdk8fo2_1280.jpg" style="; " /></a></p>
 
+<p>&nbsp;</p>
 <p>The Itsukushima temple was one of the few places I intended to go to. No, it doesn&#39;t have a petting zoo. The deer have become all too used to humans from eating their garbage. The torii (arch) is a Shinto device used to delimit the secular and the sacred.</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/a11a84db32ac7c98cbcd48e643c99201/tumblr_ocl9swGAe71ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/a11a84db32ac7c98cbcd48e643c99201/tumblr_ocl9swGAe71ubdk8fo3_1280.jpg" style="height:731px; width:1280px" /></a><a href="https://64.media.tumblr.com/f0af5e01f4132bb426ffc37df7c5036b/tumblr_ocjk57YXxE1ubdk8fo2_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/f0af5e01f4132bb426ffc37df7c5036b/tumblr_ocjk57YXxE1ubdk8fo2_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/9cf3d154f60378b5fccae8425aef1509/tumblr_ocl9swGAe71ubdk8fo2_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/9cf3d154f60378b5fccae8425aef1509/tumblr_ocl9swGAe71ubdk8fo2_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/5cb3c0df16ece1112118f0d5f66ebd0e/tumblr_ocl9swGAe71ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/5cb3c0df16ece1112118f0d5f66ebd0e/tumblr_ocl9swGAe71ubdk8fo1_1280.jpg" style="height:1707px; width:1280px" /></a><a href="https://64.media.tumblr.com/6121e0d2d22fd4269a046df5a2b278a5/tumblr_ocm5b5uVCe1ubdk8fo1_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/6121e0d2d22fd4269a046df5a2b278a5/tumblr_ocm5b5uVCe1ubdk8fo1_1280.jpg" style="height:828px; width:1280px" /></a><a href="https://64.media.tumblr.com/c6e52ea49987313df9ca11c142d512c7/tumblr_ocm5b5uVCe1ubdk8fo5_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/c6e52ea49987313df9ca11c142d512c7/tumblr_ocm5b5uVCe1ubdk8fo5_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/01703eb8fd99b08a098cacea0edae1b6/tumblr_ocm5b5uVCe1ubdk8fo3_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/01703eb8fd99b08a098cacea0edae1b6/tumblr_ocm5b5uVCe1ubdk8fo3_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/b407ebf3be5bfd7ca99da0914bb9edce/tumblr_ocm6n8oJiB1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/b407ebf3be5bfd7ca99da0914bb9edce/tumblr_ocm6n8oJiB1ubdk8fo4_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/96313944a14faca08f97d410da338f45/tumblr_ocm9kvt1on1ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/96313944a14faca08f97d410da338f45/tumblr_ocm9kvt1on1ubdk8fo3_1280.jpg" style="height:772px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/a11a84db32ac7c98cbcd48e643c99201/tumblr_ocl9swGAe71ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/a11a84db32ac7c98cbcd48e643c99201/tumblr_ocl9swGAe71ubdk8fo3_1280.jpg" style="height:731px; " /></a><a href="https://64.media.tumblr.com/f0af5e01f4132bb426ffc37df7c5036b/tumblr_ocjk57YXxE1ubdk8fo2_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/f0af5e01f4132bb426ffc37df7c5036b/tumblr_ocjk57YXxE1ubdk8fo2_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/9cf3d154f60378b5fccae8425aef1509/tumblr_ocl9swGAe71ubdk8fo2_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/9cf3d154f60378b5fccae8425aef1509/tumblr_ocl9swGAe71ubdk8fo2_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/5cb3c0df16ece1112118f0d5f66ebd0e/tumblr_ocl9swGAe71ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/5cb3c0df16ece1112118f0d5f66ebd0e/tumblr_ocl9swGAe71ubdk8fo1_1280.jpg" style="height:1707px; " /></a><a href="https://64.media.tumblr.com/6121e0d2d22fd4269a046df5a2b278a5/tumblr_ocm5b5uVCe1ubdk8fo1_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/6121e0d2d22fd4269a046df5a2b278a5/tumblr_ocm5b5uVCe1ubdk8fo1_1280.jpg" style="height:828px; " /></a><a href="https://64.media.tumblr.com/c6e52ea49987313df9ca11c142d512c7/tumblr_ocm5b5uVCe1ubdk8fo5_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/c6e52ea49987313df9ca11c142d512c7/tumblr_ocm5b5uVCe1ubdk8fo5_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/01703eb8fd99b08a098cacea0edae1b6/tumblr_ocm5b5uVCe1ubdk8fo3_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/01703eb8fd99b08a098cacea0edae1b6/tumblr_ocm5b5uVCe1ubdk8fo3_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/b407ebf3be5bfd7ca99da0914bb9edce/tumblr_ocm6n8oJiB1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/b407ebf3be5bfd7ca99da0914bb9edce/tumblr_ocm6n8oJiB1ubdk8fo4_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/96313944a14faca08f97d410da338f45/tumblr_ocm9kvt1on1ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/96313944a14faca08f97d410da338f45/tumblr_ocm9kvt1on1ubdk8fo3_1280.jpg" style="height:772px; " /></a></p>
 
 <p>&nbsp;</p>
 
@@ -52,7 +60,7 @@ Number of mosquito bites: ∞</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/58f94953508ef7b45323a47fe95738fb/tumblr_ocm9kvt1on1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/58f94953508ef7b45323a47fe95738fb/tumblr_ocm9kvt1on1ubdk8fo1_1280.jpg" style="height:1707px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/58f94953508ef7b45323a47fe95738fb/tumblr_ocm9kvt1on1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/58f94953508ef7b45323a47fe95738fb/tumblr_ocm9kvt1on1ubdk8fo1_1280.jpg" style="height:1707px; " /></a></p>
 
 <p>&nbsp;</p>
 
@@ -66,7 +74,7 @@ Number of mosquito bites: ∞</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/82a7420438d9dd99c9bbc45eb573b901/tumblr_ocmk2uSwtX1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/82a7420438d9dd99c9bbc45eb573b901/tumblr_ocmk2uSwtX1ubdk8fo1_1280.jpg" style="height:1707px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/82a7420438d9dd99c9bbc45eb573b901/tumblr_ocmk2uSwtX1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/82a7420438d9dd99c9bbc45eb573b901/tumblr_ocmk2uSwtX1ubdk8fo1_1280.jpg" style="height:1707px; " /></a></p>
 
 <p>&nbsp;</p>
 
@@ -76,7 +84,7 @@ Number of mosquito bites: ∞</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/c898ba6eb66a1e555de3902a5695d7ff/tumblr_ocmbo887c61ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/c898ba6eb66a1e555de3902a5695d7ff/tumblr_ocmbo887c61ubdk8fo3_1280.jpg" style="height:1707px; width:1280px" /></a><a href="https://64.media.tumblr.com/e2c18c004b1224e767d08020eacc9400/tumblr_ocmbo887c61ubdk8fo4_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/e2c18c004b1224e767d08020eacc9400/tumblr_ocmbo887c61ubdk8fo4_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/296ac3509a47811c2dcd6635716cf240/tumblr_ocmbsxroz91ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/296ac3509a47811c2dcd6635716cf240/tumblr_ocmbsxroz91ubdk8fo1_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg" style="height:960px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/c898ba6eb66a1e555de3902a5695d7ff/tumblr_ocmbo887c61ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/c898ba6eb66a1e555de3902a5695d7ff/tumblr_ocmbo887c61ubdk8fo3_1280.jpg" style="height:1707px; " /></a><a href="https://64.media.tumblr.com/e2c18c004b1224e767d08020eacc9400/tumblr_ocmbo887c61ubdk8fo4_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/e2c18c004b1224e767d08020eacc9400/tumblr_ocmbo887c61ubdk8fo4_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/296ac3509a47811c2dcd6635716cf240/tumblr_ocmbsxroz91ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/296ac3509a47811c2dcd6635716cf240/tumblr_ocmbsxroz91ubdk8fo1_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg" style="; " /></a></p>
 
 <p>&nbsp;</p>
 
@@ -86,32 +94,34 @@ Number of mosquito bites: ∞</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg" style="height:720px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg" style="height:720px; " /></a></p>
 
 <p>&nbsp;</p>
 
-<blockquote>
-<p>Why are they the same price?</p>
-</blockquote>
 
-<p><a href="https://64.media.tumblr.com/60956195eb551c669ed3326ba1fbbfd4/tumblr_ocjk57YXxE1ubdk8fo1_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/60956195eb551c669ed3326ba1fbbfd4/tumblr_ocjk57YXxE1ubdk8fo1_1280.jpg" style="height:960px; width:1280px" /></a><a href="https://64.media.tumblr.com/cf512e75a53be3b329dcc7b1bcb07d77/tumblr_ocjlj0mmHz1ubdk8fo3_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/cf512e75a53be3b329dcc7b1bcb07d77/tumblr_ocjlj0mmHz1ubdk8fo3_1280.jpg" style="height:960px; width:1280px" /></a></p>
+<p><i>Why are they the same price?</i></p>
 
+<p>&nbsp;</p>
+
+<p><a href="https://64.media.tumblr.com/60956195eb551c669ed3326ba1fbbfd4/tumblr_ocjk57YXxE1ubdk8fo1_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/60956195eb551c669ed3326ba1fbbfd4/tumblr_ocjk57YXxE1ubdk8fo1_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/cf512e75a53be3b329dcc7b1bcb07d77/tumblr_ocjlj0mmHz1ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/cf512e75a53be3b329dcc7b1bcb07d77/tumblr_ocjlj0mmHz1ubdk8fo3_1280.jpg" style="; " /></a></p>
+
+<p>&nbsp;</p>
 <p>Somewhere along the forest road, many of the houses adopted charred siding with stark white plaster. It was unique to any other place I&#39;d seen through out the trip. This village just decided that it wanted to look like that.</p>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg"><img alt="" src="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg" style="height:960px; width:1280px" /></a></p>
+<p><a href="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg"><img alt="" src="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg" style="; " /></a></p>
 
-<ul>
-	<li>&nbsp;</li>
-</ul>
 
-<p><img src="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg" /></p>
+<p>&nbsp;</p>
 
-<p><img src="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg" /></p>
 
-<p><img src="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg" /></p>
+<p><a href="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/3a7a2e494d3c6ec2ae1c601928a603f8/tumblr_ocmffokTzu1ubdk8fo1_1280.jpg" /></a></p>
+<p><a href="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/043f66133e58ed132b9d71efe4cf87b3/tumblr_ocmffokTzu1ubdk8fo3_1280.jpg" /></a></p>
 
+<p><a href="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/5444f26dde476b14a7551aa3e052cff3/tumblr_ocmffokTzu1ubdk8fo2_1280.jpg" /></a></p>
+
+<p>&nbsp;</p>
 <p>As my trip was just a couple days from ending I was faced with a decision that questioned what my goals were for the trip. The easy way or the hard way. It was a literal fork in the road.</p>
 
 <p>If I went right, I could take a flat, direct route to easily get to Aomori (the finishing point) by early evening and perhaps making the night bus to Tokyo.</p>
@@ -130,7 +140,6 @@ Number of mosquito bites: ∞</p>
 
 <p>Sitting atop the last hill and getting that feeling of enjoying the fruits of one&rsquo;s labor, I knew that it was my reward, the grand finale. On the unrestrained downward descent I jovially sang aloud &ldquo;That&rsquo;s Aomori!&rdquo; to the tune of the Dean Martin song, as the rush of air deafened my ears from hearing if I was on pitch.</p>
 
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -152,7 +161,9 @@ Number of mosquito bites: ∞</p>
 
 <p>In the morning I made my way to the train station and bought a rather expensive ticket to the airport. I boarded the train with my bike and continued the great journey onward.</p>
 
-<h2 style="text-align:center">&nbsp;</h2>
+<h2>&nbsp;</h2>
+<h2>&nbsp;</h2>
+
 
 <h2 style="text-align:center">THE END</h2>
 
