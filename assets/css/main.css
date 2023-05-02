@@ -8558,11 +8558,13 @@ html {
   float: left;
   width: 50%;
   padding: 5px;
+  object-fit: contain;
 }
 .column3 {
   float: left;
   width: 33.33%;
   padding: 5px;
+  object-fit: contain;
 }
 
 /* Clearfix (clear floats) */

@@ -6,18 +6,17 @@ image: https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyd
 tags: [Japan, cycling]
 ---
 
-<p>&lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen src=&quot;//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false#7/34.765/137.153&quot;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=702962#6/36.642/139.065"></iframe><p><a href="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968" style="position: relative;right: 60%;">See full screen</a></p>
 
 <p>&nbsp;</p>
 
-<p>Distance: 1330+ miles (2140km)</p>
 
-<p>Hottest: 97&deg;F (36&deg;C) Koka, July 30<br />
-Furthest: 100 miles (160km) Oshu to Sanohe<br />
-Days Slept Outside: 19&nbsp;<br />
-Number of mosquito bites: &infin;</p>
-
-<p>&nbsp;</p>
+<p class="jumbotron" style="text-align: center;">
+Distance: 1330mi (2140km)  
+Hottest: 97°F (36°C) Koka, July 30<br>
+Furthest: 100mi (160km) Oshu to Sanohe<br>
+Days Slept Outside: 19&nbsp;<br>
+Number of mosquito bites: ∞</p>
 
 <p>&nbsp;</p>
 
