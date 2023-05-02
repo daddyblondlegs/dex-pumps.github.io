@@ -3,7 +3,7 @@ layout: post
 title:  "Cycling across Japan"
 categories: [Japan, Cycling]
 image: https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg
-tags: [Japan, cycling]
+tags: [Japan, cycling, featured]
 ---
 
 
@@ -112,7 +112,9 @@ Number of mosquito bites: ∞<br>
 
 <p>&nbsp;</p>
 
-<p>I can surf a bit, but not well by any means. Trying to mix surfing into a bicycle tour means you lose time without even resting. But who could say no to the black sand beach near the mountains. A small restaurant rented out paddleboards, but if you asked the right questions they&rsquo;d get a longboard for you from their house.</p>
+<p>I can surf a bit, but not well by any means. Trying to mix surfing into a bicycle tour means you lose time without even resting. But who could say no to the black sand beach near the mountains.</p> 
+
+<p>A small restaurant rented out paddleboards, but if you asked the right questions they&rsquo;d get a longboard for you from their house.</p>
 
 
 
@@ -134,13 +136,13 @@ Number of mosquito bites: ∞<br>
 
 <p>&nbsp;</p>
 
-<p>It wasn&#39;t on the list, but I couldn&#39;t say no to a beer tour at 10:00am.</p>
-
-<p>One of the first questions they ask you is how you got there. Since I rode in on a bicycle, I was strictly forbidden from drinking some of the freshest beer in Japan - not even a sample. As it were, my mode of transportation was on a list grouped together with cars, buses, and motorcycles rather than with passengers and pedestrians. I guess because they feared that if I had a beer I&rsquo;d kill a family of four in an out-of-control, head on collision leaving both vehicles in a mangled wreck at which point the brewery would be held liable. So for anyone who visits the brewery on a bicycle, I suggest you lie to the staff, and tell them you arrived by hovercraft. That one wasn&rsquo;t on the list.</p>
+<p><a href="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg" style="; " /></a>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/44fa64caf3667323ee3b2950bf9578a5/tumblr_ocmcekGTvl1ubdk8fo4_1280.jpg" style="; " /></a>
+<p>It wasn&#39;t on the list, but I couldn&#39;t say no to a beer tour at 10:00am.</p>
+
+<p>One of the first questions they ask you is how you got there. Since I rode in on a bicycle, I was strictly forbidden from drinking some of the freshest beer in Japan - not even a sample. As it were, my mode of transportation was on a list grouped together with cars, buses, and motorcycles rather than with passengers and pedestrians. I guess because they feared that if I had a beer I&rsquo;d kill a family of four in an out-of-control, head on collision leaving both vehicles in a mangled wreck at which point the brewery would be held liable. So for anyone who visits the brewery on a bicycle, I suggest you lie to the staff, and tell them you arrived by hovercraft. That one wasn&rsquo;t on the list.</p>
 
 <a href="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg" style=" " /></a></p>
 
@@ -163,7 +165,7 @@ Number of mosquito bites: ∞<br>
 
 
 
-<a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a>
 <div class="columns">
   <div class="img1">
    <a href="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg"><img class="" src="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg" /></a>
@@ -196,7 +198,7 @@ Number of mosquito bites: ∞<br>
 
 <p>In the morning it was clear that I couldn&rsquo;t just take the easy way out and be left wondering what I&rsquo;d passed up all for the sake of convenience; I went left. As I was stocking up on carbs for the trip, the owner of the store explained to me what I was getting myself into. Up, down, up, down, up, down, straight he motioned with his hand laughing a bit and leaving me with little comfort.</p>
 
-<p>The ride was indeed difficult, in fact it was the most difficult thus far. Though I could think of times when I was in more pain, it didn&rsquo;t any comfort. The drive came from a hope that this was the end. Road signs that read&nbsp;&ldquo;10% grade&rdquo; didn&rsquo;t seem to do the road justice because as I later found out, it only means 6 degrees. Looking sideways when riding up the hill, I would have guessed somewhere between 45 and 90 and had to ride in the lowest gear for only short stretches at a time. It must have been hard to watch.</p>
+<p>The ride was indeed difficult, in fact it was the most difficult thus far. Though I could think of times when I was in more pain, it didn&rsquo;t provide any comfort. The drive came from a hope that this was the end. Road signs that read&nbsp;&ldquo;10% grade&rdquo; didn&rsquo;t seem to do the road justice because as I later found out, it only means 6 degrees. Looking sideways when riding up the hill, I would have guessed somewhere between 45 and 90 and had to ride in the lowest gear for only short stretches at a time. It must have been hard to watch.</p>
 
 <p>The lake was after the second hill and was nice but not fantastic. Jaded from all I&rsquo;d seen before, I wasn&rsquo;t THAT impressed. Just a capital E shaped lake surrounded by mountains. Do I express regret? Well, no.</p>
 
