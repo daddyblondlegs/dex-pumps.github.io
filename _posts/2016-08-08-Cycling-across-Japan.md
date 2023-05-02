@@ -11,7 +11,7 @@ tags: [Japan, cycling]
 <p>&nbsp;</p>
 
 
-<p class="jumbotron" style="text-align: center;">
+<p class="jumbotron" style="text-align: center; padding: 2rem 1rem;">
 Distance: 1330mi (2140km)  
 Hottest: 97°F (36°C) Koka, July 30<br>
 Furthest: 100mi (160km) Oshu to Sanohe<br>
@@ -19,7 +19,7 @@ Days Slept Outside: 19<br>
 Number of mosquito bites: ∞<br>
 &nbsp;<br>
 <a href="https://64.media.tumblr.com/6311570fd224f8876cb540e17aabeeb7/tumblr_ocmjmrUhy91ubdk8fo1_1280.jpg" target="_self">Bike+Gear</a></p>
-<iframe width="200%" style="margin-top:10%" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=702962#6/36.642/139.065"></iframe>
+<iframe allowfullscreen="" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&amp;datalayers=702962#6/36.642/139.065" style="position: relative;right: 30%;padding-block: 10px;" width="150%" height="400px" frameborder="0"></iframe>
 <p>&nbsp;</p>
 
 <p><a href="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg"><img src="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg" /></a></p>
@@ -82,7 +82,7 @@ Number of mosquito bites: ∞<br>
 <a href="https://64.media.tumblr.com/b407ebf3be5bfd7ca99da0914bb9edce/tumblr_ocm6n8oJiB1ubdk8fo4_1280.jpg"><img alt="" src="https://64.media.tumblr.com/b407ebf3be5bfd7ca99da0914bb9edce/tumblr_ocm6n8oJiB1ubdk8fo4_1280.jpg" style="; " /></a>
 
 
-<a href="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg"><img alt="" class="column3" src="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg" style="; " /></a>
+<a href="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg"><img alt="" class="" src="https://64.media.tumblr.com/8b6ddc5e99a09e914f3cb6ef00965f02/tumblr_ocm9kvt1on1ubdk8fo4_1280.jpg" style="; " /></a>
 
 <p>&nbsp;</p>
 
@@ -114,7 +114,7 @@ Number of mosquito bites: ∞<br>
 
 <p>I can surf a bit, but not well by any means. Trying to mix surfing into a bicycle tour means you lose time without even resting. But who could say no to the black sand beach near the mountains. A small restaurant rented out paddleboards, but if you asked the right questions they&rsquo;d get a longboard for you from their house.</p>
 
-<p>At some Japanese restaurants, like the one below, you order by putting coins in a vending machine and press a button. A slip of paper drops into the slot that you fish out and give to the cook behind the counter.</p>
+
 
 <p>&nbsp;</p>
 
@@ -127,9 +127,10 @@ Number of mosquito bites: ∞<br>
     <img src="">
   </div>
   <div>
-
-
-<a href="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg"><img alt="" class="" src="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg" style="; " /></a></p>
+<p>&nbsp;</p>
+<p>At some Japanese restaurants, like the one below, you order by putting coins in a vending machine and press a button. A slip of paper drops into the slot that you fish out and give to the cook behind the counter.</p>
+<p>&nbsp;</p>
+<a href="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg"><img alt="" class="" src="https://64.media.tumblr.com/d1f71b165c38005d2afbdceaf51b08e2/tumblr_ocmcrj0oqJ1ubdk8fo2_1280.jpg" style="; " /></a>
 
 <p>&nbsp;</p>
 
@@ -143,10 +144,7 @@ Number of mosquito bites: ∞<br>
 
 <a href="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg"><img alt="" src="https://64.media.tumblr.com/60caad7807e0882046c7bd99edee74c8/tumblr_oebyduHhgT1ubdk8fo1_1280.jpg" style=" " /></a></p>
 
-<p>&nbsp;</p>
-
-
-<p><em>(Why are they the same price?)</em></p>
+<p><em>(Why are they all the same price?)</em></p>
 
 <p>&nbsp;</p>
 
@@ -162,10 +160,18 @@ Number of mosquito bites: ∞<br>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a></p>
 
-<p><a href="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg"><img class="column2" src="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg" /></a>
-<a href="https://64.media.tumblr.com/4678664a2cddfef3d00044768fb045eb/tumblr_ogsdauS9ou1ubdk8fo3_1280.jpg"><img class="column2" src="https://64.media.tumblr.com/4678664a2cddfef3d00044768fb045eb/tumblr_ogsdauS9ou1ubdk8fo3_1280.jpg" /></a></p>
+
+
+<a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a></p>
+<div class="columns">
+  <div class="img1">
+   <a href="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg"><img class="" src="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg" /></a>
+  </div>
+  <div class="img2">
+ <a href="https://64.media.tumblr.com/4678664a2cddfef3d00044768fb045eb/tumblr_ogsdauS9ou1ubdk8fo3_1280.jpg"><img class="" src="https://64.media.tumblr.com/4678664a2cddfef3d00044768fb045eb/tumblr_ogsdauS9ou1ubdk8fo3_1280.jpg" /></a>
+ </div>
+  </div>
 
 <p>&nbsp;</p>
 
@@ -246,4 +252,4 @@ Number of mosquito bites: ∞<br>
 <p>It wasn&rsquo;t a fun move, and it just meant that the bike and I would part sooner than expected. So if you&rsquo;re ever in Tokyo, check the lost and found bin at NRT for a red and green wheeled bicycle. It would be happy to have a real home.</p>
 
 
-<p><em>Check out 5 places <a href="/Wild-camping-in-Japan/">where I slept</a></em></p>
+<p><em>Check out 5 places <a href="/Wild-camping-in-Japan/">where I slept!</a></em></p>
