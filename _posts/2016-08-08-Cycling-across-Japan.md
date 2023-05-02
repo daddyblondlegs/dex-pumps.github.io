@@ -99,19 +99,27 @@ Number of mosquito bites: ∞
 <p>&nbsp;</p>
 
 
-<p><i>Why are they the same price?</i></p>
+<p><em>Why are they the same price?</em></p>
 
 <p>&nbsp;</p>
 
 <p><a href="https://64.media.tumblr.com/60956195eb551c669ed3326ba1fbbfd4/tumblr_ocjk57YXxE1ubdk8fo1_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/60956195eb551c669ed3326ba1fbbfd4/tumblr_ocjk57YXxE1ubdk8fo1_1280.jpg" style="; " /></a><a href="https://64.media.tumblr.com/cf512e75a53be3b329dcc7b1bcb07d77/tumblr_ocjlj0mmHz1ubdk8fo3_1280.jpg"><img alt="" class="column2" src="https://64.media.tumblr.com/cf512e75a53be3b329dcc7b1bcb07d77/tumblr_ocjlj0mmHz1ubdk8fo3_1280.jpg" style="; " /></a></p>
 
+<p><a href="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg"><img alt="" src="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg" style="; " /></a></p>
+
 <p>&nbsp;</p>
 <p>Somewhere along the forest road, many of the houses adopted charred siding with stark white plaster. It was unique to any other place I&#39;d seen through out the trip. This village just decided that it wanted to look like that.</p>
 
+
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg"><img alt="" src="https://64.media.tumblr.com/08f234a8979b9b9900998f62f4df5df8/tumblr_ocjlj0mmHz1ubdk8fo2_1280.jpg" style="; " /></a></p>
+<p><a href="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/f5eef33906053c44fdc0007d6182fe5a/tumblr_ogsdauS9ou1ubdk8fo1_1280.jpg" /></a></p>
 
+<p><a href="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg"><img class="column2" src="https://64.media.tumblr.com/118187a71c6491da71f34a00d1e5ee0e/tumblr_ogsdauS9ou1ubdk8fo2_1280.jpg" /></a><a href="https://64.media.tumblr.com/4678664a2cddfef3d00044768fb045eb/tumblr_ogsdauS9ou1ubdk8fo3_1280.jpg"><img class="column2" src="https://64.media.tumblr.com/4678664a2cddfef3d00044768fb045eb/tumblr_ogsdauS9ou1ubdk8fo3_1280.jpg" /></a></p>
+
+<p>&nbsp;</p>
+
+<p>I&#39;m not sure where this pic was taken, but I remember distinctly that it was probably in Osaka. There is a famous Japanese dish called <em>fugu sashimi</em>- or raw pufferfish. The allure here is that it&rsquo;s an extremely poisonous fish that can only be prepared by the skillful hands of licensed chefs. What I had could have napkins soaked in vinegar, and I&rsquo;d be none the wiser. It was neither tounge-titulatin&#39; nor gum-numbin&#39; like they say, but the amiability of the old chef was quite enough to excuse the bill that eventually came.</p>
 
 <p>&nbsp;</p>
 
