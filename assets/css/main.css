@@ -8564,7 +8564,41 @@ html {
   float: left;
   width: 33.33%;
   padding: 5px;
-  object-fit: contain;
+  object-fit: cover;
+  height: 8rem;
+}
+
+/*Fancy html for code below
+<div class="columns">
+  <div class="img1">
+    <img src="">
+  </div>
+  <div class="img2">
+    <img src="">
+  </div>
+  <div>*/
+
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  
+ 
+  
+}
+.columns div {
+  overflow: hidden;
+  padding: 5px;
+  
+  
+}
+.columns img {
+  display: block;
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+    
 }
 
 /* Clearfix (clear floats) */
