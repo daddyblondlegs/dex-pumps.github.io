@@ -5,28 +5,6 @@ categories: [Cycling, Taiwan]
 image: https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg
 tags: [Cycling, huandao, Taiwan, travel, bike touring]
 ---
-
-<div class="columns">
-  <div class="img1">
-   <a href=""><img alt="" class="column2" src="" style=" " /></a>
-  </div>
-  <div class="img2">
- <a href=""><img alt="" class="column3" src="" style="; " /></a>
- </div>
-  <div class="img3">
-   <a href=""><img alt="" class="column2" src="" style="; " /></a>
-  </div>
-  </div>
-  
-  <div class="columns">
-  <div class="img1">
-   <a href=""><img alt="" class="column2" src="" style=" " /></a>
-  </div>
-  <div class="img2">
- <a href=""><img alt="" class="column3" src="" style="; " /></a>
- </div>
-  </div>
-
   <p>Taiwan is where I&#39;d recommend most for a first big bike tour. The landscape and feel varies fairly quickly, it&#39;s cheap yet developed, the culture is exotic without the shock, it&#39;s clean, the people are nice and speak English, there&#39;s a clear start and stop to the trip, and you end up where you started without backtracking. You won&#39;t find things on a grand scale here, but there&#39;s a little bit of everything in an island-sized package. It&#39;s a world tour in miniature you can feel accomplished about (though you might want to take a train for one stretch).</p>
 
 <p>I used to live across the strait on the mainland side, and came here for vacation. The other white guy on the ferry was a smelly, pot-bellied man who was traveling with a bike, a bob trailer, and a guitar. He looked like a bum. He said his plan was just to ride around. Where? He wasn&#39;t sure. He told me some people ride around the island, but wasn&#39;t sure if he was going to. This was known as <em>huandao</em> (circle the island), and it seemed like the right size for making a foray in to cycle touring. A few months later, I returned. I hadn&rsquo;t ridden a bike in over two years but figured it&rsquo;d come naturally
@@ -67,13 +45,13 @@ special bike lane and everything is developed along the highways. One is
 never more than thirty minutes away from a 7-11 in Taiwan. There were so many near my hostel in Taipei, I could walk to four in
 under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all on the west coast: Taipei, Taichung, and Tainan, which mean north Tai, central Tai, and south Tai. Sleeping spots were usually in business parks or industrial areas. A detour to Sun Moon Lake was a break from the gristly cities.</p>
 
-<p><a href="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/1a9f35a64c591fdd523726c69194c58e/tumblr_ntb2rthpfb1ubdk8fo2_1280.jpg" /></a>
 
-<p><a href="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/862e26dea2286c16b479f26d6eb475e9/tumblr_ntb114A8D91ubdk8fo1_1280.jpg" /></a>
 
-<p><a href="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/23ea98b70b9f04c2155d6766c9f62342/tumblr_ntb0ryxUDT1ubdk8fo3_1280.jpg" /></a>
 
-<p style="text-align: center;" ><em>>Getting through this mountain range was one of the most excruciating events in my life for the longest time. Looking back, the climb only had an elevation of 1000ft (300m), which doesn&#39;t seem like much anymore.</em></p>
+<p style="text-align: center;" ><em>Getting through this mountain range was one of the most excruciating events in my life for the longest time. Looking back, the climb only had an elevation of 1000ft (300m), which doesn&#39;t seem like much anymore.</em></p>
 
 <p>&nbsp;</p>
 
@@ -84,10 +62,11 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
   <div class="img2">
 <a href="https://64.media.tumblr.com/14c2090c8f29603be1e03b6a01474918/tumblr_ntb114A8D91ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/14c2090c8f29603be1e03b6a01474918/tumblr_ntb114A8D91ubdk8fo2_1280.jpg" /></a>
  </div>
+</div>
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg" /></a>
 
 <p>&nbsp;</p>
 
@@ -95,7 +74,7 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/00655fbabc742f7c59070a801d3153b7/tumblr_ntb2eyDZgd1ubdk8fo2_1280.jpg" /></a>
 
  <div class="columns">
   <div class="img1">
@@ -124,7 +103,7 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
  </div>
   </div>
 
-<p><a href="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg"><img src="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg"><img src="https://64.media.tumblr.com/cc237e7dff76f2994c11fbd8e95e2601/tumblr_ntb1dmfju41ubdk8fo7_r1_1280.jpg" /></a>
 
 <p style="text-align: center;" ><em>The southern most point of Taiwan</em></p>
 
