@@ -7,6 +7,10 @@ tag: [China, Cycling]
 ---
 
 
+
+
+<p>This week I decided to revisit a spot I didn&rsquo;t get to on a previous trip; someone had mentioned that Pingtian was a beautiful town in the mountains. Come to realize, this part of the province just east of Shaoguan is pretty rich with interesting sites that could all be strung together in a single, week-long tour.</p>
+
 <div data-oembed-url="https://va.media.tumblr.com/tumblr_r5a9tfVqEK1ubdk8f_720.mp4">
 <div>
 <div style="height:0; left:0; padding-bottom:56.25%; position:relative; width:100%"><iframe allow="encrypted-media *;" allowfullscreen="" src="//if-cdn.com/h2nwtXD" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" tabindex="-1"></iframe></div>
@@ -14,11 +18,9 @@ tag: [China, Cycling]
 <script async="" charset="utf-8" src="//if-cdn.com/embed.js"></script>
 </div>
 
-<p>This week I decided to revisit a spot I didn&rsquo;t get to on a previous trip; someone had mentioned that Pingtian was a beautiful town in the mountains. Come to realize, this part of the province just east of Shaoguan is pretty rich with interesting sites that could all be strung together in a single, week-long tour.</p>
+<p>Shaoguan to Shixing was the first night of the trip and the last night of the new year. I watched the clock turn under a street lamp along the small highway, and slept on flattened stalks of grass not far off the main road.</p>
 
-<p>Shaoguan to Shixing was the first night of the trip and the last night of the year. I watched the clock turn under a street lamp along the small highway, and slept on flattened stalks of grass not far off the main road.</p>
-
-<p>Online maps showed there was an old Hakka fortification in the city, but I was already deep in the city before I realized I&rsquo;d passed it. Knocking out an extra 40 minutes just to go back was frustrating until a couple of wrong turns revealed there were several of these little castles. Their proto-concrete outside is harder than the typical mud brick houses build by the other little pig and have tiny flanged windows just big enough for someone to shoot out of. Inside are 5 to 6 stories of cramped rooms, not much bigger than a walk-in closet &ndash; probably 40 rooms in this building roughly the size of a two-story estate in the Midwest. This isn&rsquo;t the one I rode in front of in the video, that one was locked; it was another left to crumble among newer buildings.</p>
+<p>My online map showed there was an old Hakka fortification in the city, but I was already deep in the city before I realized I&rsquo;d passed it. Knocking out an extra 40 minutes just to go back was frustrating until a couple of wrong turns revealed there were several of these little castles. Their proto-concrete outside is harder than the typical mud brick houses build by the other little pig and have tiny flanged windows just big enough for someone to shoot out of. Inside are 5 to 6 stories of cramped rooms, not much bigger than a walk-in closet &ndash; probably 40 rooms in this building roughly the size of a two-story estate in the Midwest. This isn&rsquo;t the one I rode in front of in the video, that one was locked; it was another left to crumble among newer buildings.</p>
 
 <p>From there I headed along the highway to Pingtian up into the mountains with an ambitious goal of getting there in a day.&nbsp;I made it, barely, and instead of trying to hunt for a sleeping spot where it gets more developed, I spotted an orchard along the road. It was too steep beneath the trees but on the top of the hill there was a spot sheltered from the wind. The day started with a slow-burning sky waiting for the sun to rise over the mountains, and from there I entered the worst day of the trip.</p>
 
