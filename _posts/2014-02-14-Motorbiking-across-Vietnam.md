@@ -24,14 +24,12 @@ tags: [Vietnam, Motorcycle]
   </div>
 
 
-<a href="https://64.media.tumblr.com/bf58188e527a499258e8dccb17dac692/tumblr_n14hgkQpnf1swz9s8o3_1280.jpg"><img src="https://64.media.tumblr.com/bf58188e527a499258e8dccb17dac692/tumblr_n14hgkQpnf1swz9s8o3_1280.jpg" /></a>
-
-<a href="https://64.media.tumblr.com/633b4a8870e4a611a3b371d2757b5940/tumblr_n14hgkQpnf1swz9s8o4_1280.jpg"><img src="https://64.media.tumblr.com/633b4a8870e4a611a3b371d2757b5940/tumblr_n14hgkQpnf1swz9s8o4_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/bf58188e527a499258e8dccb17dac692/tumblr_n14hgkQpnf1swz9s8o3_1280.jpg"><img src="https://64.media.tumblr.com/bf58188e527a499258e8dccb17dac692/tumblr_n14hgkQpnf1swz9s8o3_1280.jpg" /></a><a href="https://64.media.tumblr.com/633b4a8870e4a611a3b371d2757b5940/tumblr_n14hgkQpnf1swz9s8o4_1280.jpg"><img src="https://64.media.tumblr.com/633b4a8870e4a611a3b371d2757b5940/tumblr_n14hgkQpnf1swz9s8o4_1280.jpg" /></a>
 
 
-<p style="text-align:center"><em>We arrived around the Tet holiday. On our first night, we came to a ton where everything was closed, including restaurants and grocery stores. We had no way to get food. As we were asking for grocery stores, someone noticed our peril and gave us a massive rice loaf wrapped in banana leaves.</em></p>
+<p>We arrived around the Tet holiday. On our first night, we came to a ton where everything was closed, including restaurants and grocery stores. We had no way to get food. As we were asking for grocery stores, someone noticed our peril and gave us a massive rice loaf wrapped in banana leaves.</p>
 <p style="text-align:center">&nbsp;</p>
-<p style="text-align:center"><a href="https://64.media.tumblr.com/35b9b3519b39e587ac3dcc7d77c869c9/tumblr_n14hgkQpnf1swz9s8o7_1280.jpg"><img src="https://64.media.tumblr.com/35b9b3519b39e587ac3dcc7d77c869c9/tumblr_n14hgkQpnf1swz9s8o7_1280.jpg" /></a>
+<a href="https://64.media.tumblr.com/35b9b3519b39e587ac3dcc7d77c869c9/tumblr_n14hgkQpnf1swz9s8o7_1280.jpg"><img src="https://64.media.tumblr.com/35b9b3519b39e587ac3dcc7d77c869c9/tumblr_n14hgkQpnf1swz9s8o7_1280.jpg" /></a>
 
  <div class="columns">
   <div class="img1">
@@ -56,11 +54,7 @@ tags: [Vietnam, Motorcycle]
 
 <p>Our bikes were constantly having problems. Mine stopped working after I drove it into a guardrail. It seemed like we were at a mechanics every three days, but looking back it was all part of the fun. One night, my bike wouldn&#39;t start because we&#39;d just filled it with gas from a water bottle. It was the only option out in rural villages. We were stranded and without a place to stay. While asking if we could sleep at the school across the street, the town&#39;s mayor invited us to eat dinner with his family. We joined the rest of the family in an out-building to awkwardly eat their food without being able to communicate much. After the meal, they showed us to a guest room, and the three of us slept in a massive bed. The next morning, we realize how fortunate we were to have broken down here. We&#39;d almost ridden through one of the most beautiful parts of the trip in the dark.</p>
 
-<a href="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg"><img src="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg" /></a>
-
-
-
-<div class="columns">
+<a href="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg"><img src="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg" /></a><div class="columns">
   <div class="img1">
    <a href="https://64.media.tumblr.com/1e417ecbd316ba977a5139b902057b20/tumblr_n14qkvGb971swz9s8o7_1280.jpg"><img src="https://64.media.tumblr.com/1e417ecbd316ba977a5139b902057b20/tumblr_n14qkvGb971swz9s8o7_1280.jpg" /></a>
   </div>
@@ -72,7 +66,7 @@ tags: [Vietnam, Motorcycle]
 <p style="text-align:center">&nbsp;</p>
 <p>In a little roadside village, a man held out a pocket knife to show me that it said US on it, and then he made a digging motion and pointed to the mountains across the way. He also made a gesture that made us think he had dog tags too. Another man nearby wanted me to take a picture with him and his grandson. From what we could gather from his drawings and the sounds he made, he&#39;d shot down a helicopter and was awarded a medal. You can see the plaque hanging from the second floor banister. There were times when we told people we were Canadian; just so there&rsquo;s no hard feelings.</p>
 
-
+<p style="text-align:center">&nbsp;</p>
 
 <a href="https://64.media.tumblr.com/c9cba9474ef4e5d00b9f0343cfb45aae/04700c2717edb9f9-d1/s1280x1920/7d7320f78bd0157a375eea5289268fbf7f53202f.jpg"><img class="lightbox-image" src="https://64.media.tumblr.com/c9cba9474ef4e5d00b9f0343cfb45aae/04700c2717edb9f9-d1/s1280x1920/7d7320f78bd0157a375eea5289268fbf7f53202f.jpg" /></a>
 

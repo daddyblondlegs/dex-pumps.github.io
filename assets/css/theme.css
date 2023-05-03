@@ -645,9 +645,17 @@ footer {
 .sticky-top-offset {
 	top:70px;
 }
-.homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
+.homefirstpage {
+
+	background: url(https://64.media.tumblr.com/39b02bbb559336a1225b55cb85d28f51/35405129ab7528ca-e4/s1280x1920/c1e9f90e43495a16bf02fd90ed9b1d509abcbec4.pnj);
+	background-position: bottom;
+	background-repeat: no-repeat;"
+}
+
+
+.main-loop .main-loop-card:nth-child(-n+5) {
 	display:none !important;
-	background-image: linear-gradient(#fff, #dad2be);
+
 }
 .excerpt {
     color: rgba(0,0,0,0.59);
