@@ -3778,12 +3778,14 @@ input[type="button"].btn-block {
 
 .pagination {
   display: flex;
-  padding-left: 0;
+  padding-left: 4rem;
   list-style: none;
   border-radius: 0.25rem; 
   font-size: 14px;
   font-weight: 600;
 }
+
+
 
 .page-link {
   position: relative;
@@ -3792,14 +3794,14 @@ input[type="button"].btn-block {
   margin-left: -1px;
   line-height: 1.25;
   color: #03a87c;
-  background-color: #fff;
+  background-color: #333;
   border: 1px solid #dee2e6; }
   .page-link:hover {
     z-index: 2;
-    color: #025d45;
+    color: #dad2be;
     text-decoration: none;
     background-color: #e9ecef;
-    border-color: #dee2e6; }
+    border-color: #fdfbf1; }
   .page-link:focus {
     z-index: 2;
     outline: 0;
