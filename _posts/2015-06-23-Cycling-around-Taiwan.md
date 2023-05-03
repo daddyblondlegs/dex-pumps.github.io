@@ -53,7 +53,6 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 
 <p style="text-align: center;" ><em>Getting through this mountain range was one of the most excruciating events in my life for the longest time. Looking back, the climb only had an elevation of 1000ft (300m), which doesn&#39;t seem like much anymore.</em></p>
 
-<p>&nbsp;</p>
 
 <div class="columns">
   <div class="img1">
@@ -64,11 +63,9 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
  </div>
 </div>
 
-<p>&nbsp;</p>
 
 <a href="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9956357913906be5a41860265f780823/tumblr_ntb114A8D91ubdk8fo6_1280.jpg" /></a>
 
-<p>&nbsp;</p>
 
 <p style="text-align: center;" ><em>Sun Moon Lake was so tranquil, I was that guy and set up a hammock along the bank.</em></p>
 
@@ -91,7 +88,7 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 <h2>Southern Point</h2>
 
 <p>Relaxed and tropical, Taiwan&#39;s southern tip is the go-to vacation spot for the island. Some places have even taken on the Hawaiian surf culture; I passed one long-haired guy pulling surf boards out of a Westphalia going out to his secret spot.</p>
- <p>&nbsp;</p>
+
 <a href="https://64.media.tumblr.com/00a724b6364328aec775d371df29752f/tumblr_ntb2eyDZgd1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/00a724b6364328aec775d371df29752f/tumblr_ntb2eyDZgd1ubdk8fo5_1280.jpg" /></a>
 
 <div class="columns">
@@ -107,12 +104,10 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 
 <p style="text-align: center;" ><em>The southern most point of Taiwan</em></p>
 
-<h2>&nbsp;</h2>
-
 <h2>East Coast</h2>
 
 <p>The east side of Taiwan, is largely different from the developed west. It&#39;s more secluded, mountainous, and descendants of the island&#39;s natives are more common. For cycling, it&#39;s a whole new ball game. In the north-eastern part, a two-lane highway ribbons along the ocean cliffs, and the shoulder disappears entirely leaving little room for semi-trailers to maneuver. Coupled with all of the tight hills and curves, many <em>huandao</em>&rsquo;ers just take the train for this section. I did not. Riding through 2 mile long tunnels at night, no one else on the road, was more fun that it looks, but still terrifying.</p>
-<h2>&nbsp;</h2>
+
 
 <div class="columns">
   <div class="img1">
@@ -124,11 +119,11 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
   </div>
 
 <a href="https://64.media.tumblr.com/c7677bb3701efa23b1da6f57839e9d9f/tumblr_ntb2lzrOje1ubdk8fo4_1280.jpg"><img src="https://64.media.tumblr.com/c7677bb3701efa23b1da6f57839e9d9f/tumblr_ntb2lzrOje1ubdk8fo4_1280.jpg" /></a>
-<h2>&nbsp;</h2>
+
 <p style="text-align: center;" ><em>That &quot;oh crap&quot; moment when you just want these roads to be over, but then you see there&#39;s still more climbing.</em></p>
-<h2>&nbsp;</h2>
+<p>&nbsp;</p>
+
 <a href="https://64.media.tumblr.com/6878610960b6a8b026f5093c22e4c6fb/tumblr_ntb2lzrOje1ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/6878610960b6a8b026f5093c22e4c6fb/tumblr_ntb2lzrOje1ubdk8fo6_1280.jpg" /></a>
 
-<p>&nbsp;</p>
 
 <p>My first ever bike tour was officially finished once I returned the bike to the rental place.&nbsp;It was sloppy, yet incredibly fun. It helped that I was only 23. I didn&#39;t know a thing about fixing bikes or the right gear, but it was all the rush of new experiences. This was the adventure I needed. Something to prove myself.</p>
