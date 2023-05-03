@@ -81,7 +81,7 @@ under five minutes; it&rsquo;s an infestation. Taiwan&#39;s major cities are all
 <a href="https://64.media.tumblr.com/262c7e83fce01ff3825aaecc38a827b5/tumblr_ntb2eyDZgd1ubdk8fo4_1280.jpg"><img src="https://64.media.tumblr.com/262c7e83fce01ff3825aaecc38a827b5/tumblr_ntb2eyDZgd1ubdk8fo4_1280.jpg" /></a>
  </div>
   </div>
-
+<p style="text-align: center;" ><em>A decorative train car at a factory-turned-boutique venue provided shelter from the rain... for the whole night.</em></p>
 
 <p>&nbsp;</p>
 
