@@ -1377,7 +1377,9 @@ pre {
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
+  text-align: center;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
+  
   @media screen and (prefers-reduced-motion: reduce) {
     .form-control {
       transition: none; } }
@@ -8753,7 +8755,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 1024px) {
 .corner {display: none;}
 .timeline-row .horizontal-line {display: none;}
-.timeline-row:first-child {max-width: 30%; padding: 0;}
+.timeline-row:first-child {max-width: 100%; padding: 0;}
 .timeline-main {margin-top: 0;}
 .timeline-row .verticle-line {right: 50%; transform: translate(50%,0); height: calc(100% - 0px);}
 .timeline-row:nth-child(2n+2) .verticle-line {left: auto; right: 50%;}
