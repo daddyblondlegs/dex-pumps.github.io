@@ -176,44 +176,46 @@ description: "Bicycle touring and gear reviews"
         
 <!--Paginator #2-->
 
-{% if paginator.total_pages != 1 %}  
-<div class="row text-center text-caps">
-    <div class="col-md-8 col-md-offset-2">
-        <nav class="pagination" role="pagination">     
-    
-    <span class="page-link">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if site.paginate_path != 'page:num'%}
-    {% assign paginate_url = site.paginate_path | remove:'/page:num' %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-      <a class="page-link" href="{{ site.url }}/{{ paginate_url }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
-      {% else %}
-     <a class="page-link" href="{{ site.url }}/{{ paginate_url }}/page{{ paginator.previous_page }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
-      {% endif %}
-    {% endif %}
-    {% if paginator.next_page %} 
-    <a class="page-link" href="{{ site.url }}/{{ paginate_url }}/page{{ paginator.next_page }}/" class="btn" title="Older Posts">Older Posts &rarr;</a>
-    {% endif %} 
-    {% else %}
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-      <a class="page-link" href="{{ site.url }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
-      {% else %}
-     <a class="page-link" href="{{ site.url }}/page{{ paginator.previous_page }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
-      {% endif %}
-    {% endif %}
-    {% if paginator.next_page %} 
-    <a class="page-link" href="{{ site.url }}/page{{ paginator.next_page }}/" class="btn" title="Older Posts">Older Posts &rarr;</a>
-                </nav>
-            </div>
-        </div>
-    {% endif %}
-    {% endif %}
-    {% endif %}
 
 
-       <!-- <div class="mt-5">
-          Pagination links 
+       <div class="mt-5">
+        {% if paginator.total_pages != 1 %}  
+        <div class="row text-center text-caps">
+            <div class="col-md-8 col-md-offset-2">
+                <nav class="pagination" role="pagination">     
+            
+            <span class="page-link">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+            {% if site.paginate_path != 'page:num'%}
+            {% assign paginate_url = site.paginate_path | remove:'/page:num' %}
+            {% if paginator.previous_page %}
+              {% if paginator.previous_page == 1 %}
+              <a class="page-link" href="{{ site.url }}/{{ paginate_url }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
+              {% else %}
+             <a class="page-link" href="{{ site.url }}/{{ paginate_url }}/page{{ paginator.previous_page }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
+              {% endif %}
+            {% endif %}
+            {% if paginator.next_page %} 
+            <a class="page-link" href="{{ site.url }}/{{ paginate_url }}/page{{ paginator.next_page }}/" class="btn" title="Older Posts">Older Posts &rarr;</a>
+            {% endif %} 
+            {% else %}
+            {% if paginator.previous_page %}
+              {% if paginator.previous_page == 1 %}
+              <a class="page-link" href="{{ site.url }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
+              {% else %}
+             <a class="page-link" href="{{ site.url }}/page{{ paginator.previous_page }}/" class="btn" title="Newer Posts">&larr; Newer Posts</a>
+              {% endif %}
+            {% endif %}
+            {% if paginator.next_page %} 
+            <a class="page-link" href="{{ site.url }}/page{{ paginator.next_page }}/" class="btn" title="Older Posts">Older Posts &rarr;</a>
+                        </nav>
+                    </div>
+                </div>
+            {% endif %}
+            {% endif %}
+            {% endif %}
+        
+
+           <!--Pagination links 
             {% if paginator.total_pages > 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
@@ -238,8 +240,8 @@ description: "Bicycle touring and gear reviews"
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}
             </ul>
-            {% endif %}      
-        </div>-->
+            {% endif %}   -->   
+        </div>
         
     </div>
     

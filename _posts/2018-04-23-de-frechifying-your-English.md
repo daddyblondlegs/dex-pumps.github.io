@@ -1,9 +1,10 @@
+
 ---
 layout: post
 title:  "De-Frechifying your English"
-categories: [ Jekyll ]
+categories: [France, Thoughts]
 image: assets/images/frenchdoors.jpg
-tag: [cycling]
+tag: [France]
 ---
 
 ### De-Frechifying your English
@@ -49,8 +50,7 @@ This isn’t an attempt to challenge the English lexicon, just use of a theme, w
 **French fries**: Just called fries, but their fried potatoes cubes need to be imported ASAP.  
 
 ![image](https://64.media.tumblr.com/00e9a05090a0ccaf7644bb7b9a2f716a/tumblr_inline_plbwoxBAjd1tz5xrk_1280.png)
-
-##   
+  
 
 ## EN VOGUE  
 
@@ -58,7 +58,7 @@ This isn’t an attempt to challenge the English lexicon, just use of a theme, w
 
 **French blue**: Neither the same color as what’s on their ever-beloved flag nor all that common in their clothing. The name probably was an attempt to classy-up a particular hue. In America, I remember noticing that every single person in one of my classes, without exception, was wearing blue jeans; yet in France, they’re still somewhat exotic. Though it’s common to see people wearing blue denim, it’s much less so than skirts, hosiery, and pseudo-slacks; the general color palette of any given crowd is generally browns, blacks, and grays. Shirts with the logo of Levi’s (pronounced like the plural of _levy_, the thing that Bob Dylan drove his Chevy to) were one of the biggest things trending over there, and the brand’s jeans are like $120 a pair in some stores.  
 
-**French braid/manicure**: From what I could tell, girls don’t fuss much with either. They just like to keep their keratin straight and simple.
+**French braid/manicure**: From what I could tell, girls don’t fuss much with either.
 
 **French horn**: They call it a “horn of harmony”, but I know you don’t care.
 
