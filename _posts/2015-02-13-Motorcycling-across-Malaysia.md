@@ -2,7 +2,7 @@
 layout: post
 title:  "Motorcycling across Malaysia"
 categories: [Malaysia, Motorcycling]
-image: 
+image: https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg
 tags: [Malaysia, Motorcycling]
 ---
 <p>One-uping that <a href="/Motorbiking-across-Vietnam/">glorious trip across Vietnam</a>? It&#39;d be tough, but a Royal Enfield across India should do it. Less than 48 hellish hours later, I returned to Nepal because India is one of the few countries that doesn&#39;t accept UnionPay and I left my Visa card at home so I wouldn&#39;t lose it. Rookie mistake.</p>
@@ -22,9 +22,9 @@ tags: [Malaysia, Motorcycling]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a>
 
-<p><a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a></p>
+<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a>
 
 <div class="columns">
   <div class="img1">
@@ -58,10 +58,6 @@ tags: [Malaysia, Motorcycling]
 
 <p>&nbsp;</p>
 
-<p><a href="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg"><img src="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg" /></a></p>
-
-<p>Let&#39;s just say I stayed at a beach side resort one night. There was a bench down far enough the guard couldn&#39;t see me.</p>
-
 <a href="https://64.media.tumblr.com/a6a4781f2a5cf4cba2f14c8e92bfeeee/tumblr_ntd8ijFlYZ1ubdk8fo1_1280.jpg"><img src="https://64.media.tumblr.com/a6a4781f2a5cf4cba2f14c8e92bfeeee/tumblr_ntd8ijFlYZ1ubdk8fo1_1280.jpg" /></a>
 
 <div class="columns">
@@ -72,7 +68,10 @@ tags: [Malaysia, Motorcycling]
  <a href="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/c828eed3112657ca9a8f5ac02e84dcda/5b63dce4c5c5e9da-d6/s500x750/8afea81080703a9dd4d0138ea7ace8ee98898f1a.jpg" /></a>
  </div>
   </div>
+  <a href="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg"><img src="https://64.media.tumblr.com/63135e6745af2dc0c4b3fd1b09c4e2f7/tumblr_ntd8ijFlYZ1ubdk8fo10_1280.jpg" /></a>
 
+<p>I stayed at a beach side resort one night. There was a bench down far enough the guard couldn&#39;t see me. The 9 days were hotel free, tent free, sleeping bag free. I just sort of layed wherever. One night I slept in the upper seating area of a cafeteria above a fish market. One of the tables was broken and laying up against the wall. Two nights were spent in houses under construction, but neither sand piles nor scaffolding are as comfortable as they sound. 
+</p>
 
 <div class="columns">
   <div class="img1">
