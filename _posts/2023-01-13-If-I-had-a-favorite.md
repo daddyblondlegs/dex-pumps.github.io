@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "If I had a Favorite Place"
-author: Elliot
-categories: [ Cycling, Fun ]
-image: assets/images/fuqing_tower.jpg
-tags: [sticky]
+categories: [China]
+image: https://64.media.tumblr.com/842c1a36dca55ce3923b5aa706a358b6/tumblr_inline_pigb2qyBbn1tz5xrk_1280.jpg
+tags: [sticky, China]
 ---
 
 <p style="text-align:justify">I could see it extending just above the treetops, looking out across at it from a mountain temple. The stone tower stood in solitude on a hill unaccompanied by such crowds as were around me then. There was something unsettling about it and how the trees surrounding it were so tightly-knit that it seemed like the tower was rising from the sea. My goal became to go there, up close, no matter what I'd have to climb through to get there.</p>

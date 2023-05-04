@@ -3,7 +3,7 @@ layout: post
 title:  "Motorbiking across Vietnam"
 categories: [Vietnam, Motorcycle]
 image: https://64.media.tumblr.com/56af081b29dda88c83006a42a74cfef4/04700c2717edb9f9-9e/s500x750/fdbe80523e0f2c2168ffdfe552f5860a9a0588e8.jpg"
-tags: [Vietnam, Motorcycle]
+tags: [Vietnam, Motorcycle, featured]
 ---
 
 
