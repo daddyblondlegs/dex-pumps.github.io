@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Motorcycling across Malaysia"
+title:  "Motorbiking across Malaysia"
 categories: [Malaysia, Motorcycle]
 image: https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg
 tags: [Malaysia, Motorcycle]
@@ -10,10 +10,8 @@ tags: [Malaysia, Motorcycle]
 <p>My massive school teacher vacation was only weeks away, so I just went somewhere else. I arrived in Sarawak - Malaysian&rsquo;s eastern island - hoping to do what I&rsquo;d done in Vietnam. The difference I soon came upon was that no one rides motorcycles here, they&rsquo;re scooter commuters. Buzzkilled and frustrated from what had happened in India, I began to panic that there wouldn&#39;t be a <em>real</em> motorcycle to redeem my loss. A hostel in town rented scooters out for people wanting to ride around the small city, not transverse the island. I still feel a bit ashamed of driving it 2300km over nine days (which is like going from Dallas to Philadelphia, never going faster than 40mph), and sincerely hope they don&#39;t keep track of the odometer.</p>
 
 <p>&nbsp;</p>
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/3.151/112.510"></iframe>
-<p>&nbsp;</p>
 
-<p>It was kind of fun being out on the road listening to my 110cc rental bike buzz at its laughable top speed.It was somewhat interesting, but not the mega-awesome experience I had hoped for. I guess trips like that are bound to come along.</p>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/3.151/112.510"></iframe>
 
 <p>&nbsp;</p>
 
@@ -24,16 +22,13 @@ tags: [Malaysia, Motorcycle]
 
 <p>&nbsp;</p>
 
-<a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a>
 
-<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a>
 
-<div class="columns">
+<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a><a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a><div class="columns">
   <div class="img1">
    <a href="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg" /></a>
   </div>
- 
-  <div class="img3">
+  <div class="img2">
    <a href="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg" /></a>
   </div>
   </div>
@@ -72,7 +67,7 @@ tags: [Malaysia, Motorcycle]
 
 <p>I stayed at a beach side resort one night. There was a bench down far enough the guard couldn&#39;t see me. The 9 days were hotel free, tent free, sleeping bag free. I just sort of layed wherever. One night I slept in the upper seating area of a cafeteria above a fish market. One of the tables was broken and laying up against the wall. Two nights were spent in houses under construction, but neither sand piles nor scaffolding are as comfortable as they sound. 
 </p>
-
+<p>&nbsp;</p>
 <div class="columns">
   <div class="img1">
 <a href="https://64.media.tumblr.com/1f031c404867968ee9f0d2076b3b4046/tumblr_ntd8ijFlYZ1ubdk8fo2_1280.jpg"><img class="smallest" src="https://64.media.tumblr.com/1f031c404867968ee9f0d2076b3b4046/tumblr_ntd8ijFlYZ1ubdk8fo2_1280.jpg" /></a>   
@@ -89,3 +84,5 @@ tags: [Malaysia, Motorcycle]
   </div>
   </div>
 
+<p>It was kind of fun being out on the road listening to my 110cc rental bike buzz at its laughable top speed. It was somewhat interesting, but not the mega-awesome experience I had hoped for. I guess trips like that are bound to come along.</p>
+<p>&nbsp;</p>
