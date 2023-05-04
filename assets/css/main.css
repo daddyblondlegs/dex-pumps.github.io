@@ -8649,7 +8649,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 10%;
 }
 
-.about-timeline{background-image: linear-gradient(#fdfafd, #dad2be);; padding: 10px 0 0px;}
+.about-timeline{background-image: linear-gradient(#fdfafd, #dad2be);; padding: 1% 0 0px;}
 
 .timeline-box h6{font-size: 55px; line-height: 1; color: #e11107; font-weight: 100; font-family: 'Helvetica Neue', sans-serif;background-color: ;position: relative; z-index: 1; display: inline-block; width: auto; padding: 0 10px;margin: -2em; transform: translate(0,-50%);} 
 
@@ -8724,7 +8724,7 @@ h1, h2, h3, h4, h5, h6 {
 .timeline-box {max-width: 30%; padding: 0px 3rem;}
 .timeline-box.img-right .timeline-content img, .timeline-box.img-left .timeline-content img {max-width: 180px; max-height: 190px;} { padding: 2rem 2rem 0;}
 .timeline-box h6 {font-size: 50px;}
-.about-timeline {padding: 120px 0 100px;}
+.about-timeline {padding: 1% 0 100px;}
 .timeline-box p {font-size: 16px;}
 }
 
@@ -8743,7 +8743,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 @media screen and (max-width: 1199px) {
-.about-timeline {padding: 90px 0 60px;}
+.about-timeline {padding: 1% 0 60px;}
 .timeline-box h6 {font-size: 34px;}
 .timeline-box {max-width: 30%; padding: 0px;}
 .timeline-row:first-child {padding: 0 0 0 60px;}
@@ -8773,7 +8773,7 @@ h1, h2, h3, h4, h5, h6 {
 .timeline-box.img-right .timeline-content-txt {width: 100%;}
 .start-point.end-point {right: 50%;}
 .start-point h4 {margin-bottom: 0;}
-.about-timeline {padding: 80px 0;}
+.about-timeline {padding: 1% 0;}
 .timeline-box::after {-webkit-transform: translate(-100%,100%) rotate(180deg); transform: translate(-100%,100%) rotate(180deg); right: 50%; top: 20px; left: 50%;}
 .timeline-box-wrap {width: 50%; text-align: center; padding: 0 30px 0 0; margin: 40px 0 0 0;}
 .timeline-row .timeline-box img {margin: 0 0 0 auto;}
@@ -8790,7 +8790,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 640px) {
 
-.about-timeline {padding: 50px 0;}
+.about-timeline {padding: 1% 0;}
 .timeline-box h6 {font-size: 27px;}
 .timeline-box p {font-size: 14px; line-height: 1.4;}
 .timeline-box-wrap {margin: 30px 0 0 0;}
