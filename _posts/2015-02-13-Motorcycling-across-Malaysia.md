@@ -20,11 +20,9 @@ tags: [Malaysia, Motorcycle]
 <p>When I moved to China in 2013 I quickly learned that my ideas of the Orient are not only just caricatures but are also pretty outdated. China today has become maddened by the desire to advance and with that, is a disposal of the past. Rickshaws, queues hanging from silk hats, outdoor laundry vats? Forget it. Chinese people my age have never seen them because their parents gave them up.<br />
 &nbsp;</p>
 
-<p>&nbsp;</p>
 
-
-
-<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a><a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a><div class="columns">
+<a href="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/7996b39ff078caffd3c85cffa05ada36/tumblr_ntcmrvcL9i1ubdk8fo2_1280.jpg" /></a><a href="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg"><img src="https://64.media.tumblr.com/e292872d2bdb704a9f93517473dd7344/tumblr_ntcmrvcL9i1ubdk8fo3_1280.jpg" /></a>
+<div class="columns">
   <div class="img1">
    <a href="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg" /></a>
   </div>
@@ -78,11 +76,9 @@ tags: [Malaysia, Motorcycle]
   </div>
 
 
-<div class="columns">
-  <div class="img1">
+
    <img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/ee02bf89ec55e7aac34d840aef82f48d/03e42fe2a6a6f052-14/s500x750/e52608862dcf36f31964d6178ef00f7026fc8ae1.gifv" />
-  </div>
-  </div>
+  
 
 <p>It was kind of fun being out on the road listening to my 110cc rental bike buzz at its laughable top speed. It was somewhat interesting, but not the mega-awesome experience I had hoped for. I guess trips like that are bound to come along.</p>
 <p>&nbsp;</p>
