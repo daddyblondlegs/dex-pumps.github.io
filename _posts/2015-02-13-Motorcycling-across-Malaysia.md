@@ -3,12 +3,14 @@ layout: post
 title:  "Motorcycling across Malaysia"
 categories: [Malaysia, Motorcycling]
 image: https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg
-tags: [Malaysia, Motorcycling]
+tags: [Malaysia, Motorcycle]
 ---
 <p>One-uping that <a href="/Motorbiking-across-Vietnam/">glorious trip across Vietnam</a>? It&#39;d be tough, but a Royal Enfield across India should do it. Less than 48 hellish hours later, I returned to Nepal because India is one of the few countries that doesn&#39;t accept UnionPay and I left my Visa card at home so I wouldn&#39;t lose it. Rookie mistake.</p>
 
 <p>My massive school teacher vacation was only weeks away, so I just went somewhere else. I arrived in Sarawak - Malaysian&rsquo;s eastern island - hoping to do what I&rsquo;d done in Vietnam. The difference I soon came upon was that no one rides motorcycles here, they&rsquo;re scooter commuters. Buzzkilled and frustrated from what had happened in India, I began to panic that there wouldn&#39;t be a <em>real</em> motorcycle to redeem my loss. A hostel in town rented scooters out for people wanting to ride around the small city, not transverse the island. I still feel a bit ashamed of driving it 2300km over nine days (which is like going from Dallas to Philadelphia, never going faster than 40mph), and sincerely hope they don&#39;t keep track of the odometer.</p>
 
+<p>&nbsp;</p>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#7/3.151/112.510"></iframe>
 <p>&nbsp;</p>
 
 <p>It was kind of fun being out on the road listening to my 110cc rental bike buzz at its laughable top speed.It was somewhat interesting, but not the mega-awesome experience I had hoped for. I guess trips like that are bound to come along.</p>
@@ -30,9 +32,7 @@ tags: [Malaysia, Motorcycling]
   <div class="img1">
    <a href="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg"><img src="https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg" /></a>
   </div>
-  <div class="img2">
- <a href="https://64.media.tumblr.com/aa5ddff2e9b7b1a4e06059d3df1810b1/tumblr_ntcmrvcL9i1ubdk8fo1_1280.jpg"><img class="smallest" src="https://64.media.tumblr.com/aa5ddff2e9b7b1a4e06059d3df1810b1/tumblr_ntcmrvcL9i1ubdk8fo1_1280.jpg" style="height:444px; width:791px" /></a>
- </div>
+ 
   <div class="img3">
    <a href="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg"><img src="https://64.media.tumblr.com/9784634013130d158d0174a6ac101707/tumblr_ntcmrvcL9i1ubdk8fo6_1280.jpg" /></a>
   </div>
