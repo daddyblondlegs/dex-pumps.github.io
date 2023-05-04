@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motorcycling across Malaysia"
-categories: [Malaysia, Motorcycling]
+categories: [Malaysia, Motorcycle]
 image: https://64.media.tumblr.com/ceceae0edf844a18ac77fd37654eeb28/tumblr_ntd8ijFlYZ1ubdk8fo5_1280.jpg
 tags: [Malaysia, Motorcycle]
 ---
