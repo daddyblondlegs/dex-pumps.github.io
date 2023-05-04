@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The only 3 pictures I took with my film camera"
-categories: [Flim, Japan]
+categories: [Japan]
 image: https://64.media.tumblr.com/22a6f204d6dc25d5a33efb22052fe875/tumblr_omccd97vlP1ubdk8fo2_1280.jpg 
-tags: [Cycling, Film, Japan, black and white]
+tags: [Cycling, Film, Japan]
 ---
 
 <p><a href="https://64.media.tumblr.com/22a6f204d6dc25d5a33efb22052fe875/tumblr_omccd97vlP1ubdk8fo2_1280.jpg"><img src="https://64.media.tumblr.com/22a6f204d6dc25d5a33efb22052fe875/tumblr_omccd97vlP1ubdk8fo2_1280.jpg" /></a></p>

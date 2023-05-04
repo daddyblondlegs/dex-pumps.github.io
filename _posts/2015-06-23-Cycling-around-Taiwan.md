@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HuanDao: Cycling around Taiwan"
-categories: [Cycling, Taiwan]
+categories: [Taiwan, Cycling]
 image: https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg
 tags: [Cycling, huandao, Taiwan, travel, bike touring]
 ---

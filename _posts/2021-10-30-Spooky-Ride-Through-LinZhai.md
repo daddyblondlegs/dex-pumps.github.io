@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Spooky Ride through LinZhai Ruins"
-categories: [China, Videos, Cycling]
+categories: [China, Cycling]
 image: https://64.media.tumblr.com/5a458a30ed0f5d74b97a1ab8d22925c0/48d5b6e291c753b6-e9/s540x810/74a2f13f9082260a51ad660f23768881c0551715.jpg
-tags: [China]
+tags: [China, Cycling, Video]
 ---
 
 <video controls="controls" autoplay="autoplay" muted="muted" poster="https://64.media.tumblr.com/5a458a30ed0f5d74b97a1ab8d22925c0/48d5b6e291c753b6-e9/s540x810/74a2f13f9082260a51ad660f23768881c0551715.jpg"><source src="https://va.media.tumblr.com/tumblr_r1y57q29iy1ubdk8f.mp4" type="video/mp4"></video>

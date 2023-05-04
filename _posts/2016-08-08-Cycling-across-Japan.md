@@ -18,7 +18,7 @@ Furthest: 100mi (160km) Oshu to Sanohe<br>
 Days Slept Outside: 19<br>
 Number of mosquito bites: ∞<br>
 &nbsp;<br>
-<a href="https://64.media.tumblr.com/6311570fd224f8876cb540e17aabeeb7/tumblr_ocmjmrUhy91ubdk8fo1_1280.jpg" target="_self">Bike+Gear</a>
+<a href="https://64.media.tumblr.com/6311570fd224f8876cb540e17aabeeb7/tumblr_ocmjmrUhy91ubdk8fo1_1280.jpg" target="_self" style="color: #e11107">Bike+Gear</a>
 <iframe allowfullscreen="" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&amp;datalayers=702962#6/36.642/139.065" style="position: relative;right: 30%;padding-block: 10px;" width="150%" height="400px" frameborder="0"></iframe>
 <p>&nbsp;</p>
 
@@ -100,11 +100,11 @@ Number of mosquito bites: ∞<br>
 
 <p>Sleeping on the floor with only a thin pad wasn&rsquo;t a makeshift substitute for a bed, it&rsquo;s the traditional Japanese way of sleeping. Besides, the setup was rather comfy for someone used to sleeping on hard surfaces such as Chinese beds, the road, etc. and it was far better than being out in that rain. This was undoubtedly providence at work.&nbsp;</p>
 
-<p>In the morning I tried to sneak out at about 6:00 trying not to awake my gracious hosts and so took special precautions to prepare my stuff outside to minimize the noise. Just a minute or so from preparing to head off, the man returned in his car. He&rsquo;d already gone out and bought breakfast for me: two burgers and a coffee. In hind sight, I should have told him I was French, then maybe I could have gotten a croissant or something. Soon after, the second and third generations of the home came out sleepy eyed to meet the poor example of Americana, we can only hope they refrained from making too many generalizations from their encounter with this vagrant.</p>
+<p>In the morning I tried to sneak out at about 6:00 trying not to awake my gracious hosts and so took special precautions to prepare my stuff outside to minimize the noise. Just a minute or so from preparing to head off, the man returned in his car. He&rsquo;d already gone out and bought an American breakfast for his American guest: two burgers and a coffee. (In hindsight, I should have told him I was French, then maybe I could have gotten a croissant or something.) Soon after, the second and third generations of the family came out sleepy eyed to meet the poor example of Americana, we can only hope they refrained from making too many generalizations from their encounter with this vagrant.</p>
 
 <p>The feeling of overhospitality began to give way discomfort in me because it seemed these people were genuinely interested in taking care of me. I awkwardly made chitchat in basic English and was relieved when we came to a natural break in conversation so that I could say I needed to continue my journey. They waved and said &ldquo;ki o tsukete&rdquo; through their smiles, which means &ldquo;have a safe journey&rdquo;.</p>
 
-<p>But first: a picture with their little girls.&nbsp;</p>
+<p>But first: a picture with their grand-daughter.&nbsp;</p>
 
 <p>&nbsp;</p>
 

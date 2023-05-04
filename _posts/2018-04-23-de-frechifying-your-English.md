@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title:  "De-Frechifying your English"
-categories: [France, Thoughts]
+categories: [France]
 image: assets/images/frenchdoors.jpg
-tag: [France]
+tags: [France, Thoughts, Language]
 ---
 
 ### De-Frechifying your English

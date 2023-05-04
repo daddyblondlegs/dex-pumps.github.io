@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The Around Town Cuisine"
-categories: [France, Food]
+categories: [France]
 image: https://64.media.tumblr.com/2d0138203e6d5922a84235cb29f4da45/tumblr_inline_pl8qinOZp01tz5xrk_1280.jpg
-tags: [France]
+tags: [France, Food]
 ---
 
 
