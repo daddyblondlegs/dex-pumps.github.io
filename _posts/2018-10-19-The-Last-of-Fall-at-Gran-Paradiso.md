@@ -5,10 +5,7 @@ categories: [Italy]
 image: https://64.media.tumblr.com/096223d75b9c3adc4aafe494e2cfbccc/tumblr_inline_phgn3jliGS1tz5xrk_500.jpg
 tags: [Italy, Hiking]
 ---
-
-<h2>Day 1</h2>
-
-<p>I awoke in a field meant for camping. Despite the tent icon on the map legend, the only other around was a trailer with its blinds down. The off-season offered little approbation of which empty space was to be used for what, but I tried to obey the park mandates of sleeping in designated areas for at least one night. The hotel lawns and fields along the river were as empty except for one with two horses and a mule.</p>
+<p>I woke up cold in an empty campsite, beside a trailer with its blinds down. The off-season provided little approbation of how to use this big empty space, but I followed the park mandate of sleeping in designated areas for at least one night. The nearby hotel lawns and fields along the river faced the same emptiness.</p>
 
 <p>There was still a day&rsquo;s walk between where I&rsquo;d slept and where the path into the park began, but I&rsquo;d gone as close as the winter bus routes allowed. Fortunately after some time, a woman likely enjoying her retirement years stopped to give me a ride. What would have taken the better part of a day walking, she drove in fifteen minutes. As we stopped near her rented cabin, she told me the weather would get bad in a couple of days and also tried to explain that there was a&hellip; she didn&rsquo;t know the English word, and the Italian wasn&rsquo;t a cognate. I said the word for path in French, and she gave a circular smile of equal proportions of top and bottom teeth and gums. &ldquo;Yes, <em>chemin,</em>&rdquo; she nodded.</p>
 
