@@ -3,7 +3,7 @@ layout: post
 title:  "HuanDao: Cycling around Taiwan"
 categories: [Taiwan, Cycling]
 image: https://64.media.tumblr.com/f67b65a5b11e4db61611f902024773c8/tumblr_ntb0ryxUDT1ubdk8fo2_1280.jpg
-tags: [Taiwan, Cycling, Featured]
+tags: [Taiwan, Cycling, featured]
 ---
 <p class="jumbotron" style="text-align: center; padding: 2rem 1rem;">
 Distance: 860mi (1384km)<br>
@@ -14,7 +14,9 @@ Waves surfed: ½<br>
 <br>
 &nbsp;<br>
 
-<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=702958#7/23.891/120.850"></iframe></p>
+<iframe width="100%" height="400px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=702958#7/23.891/120.850"></iframe>
+
+<small style="color: #dad2be"><em>Click the dots to read about my sleeping spots.</em></small></p>
 
 
   <p>Taiwan is where I&#39;d recommend most for a first big bike tour. The landscape and feel varies fairly quickly, it&#39;s cheap yet developed, the culture is exotic without the shock, it&#39;s clean, the people are nice and speak English, there&#39;s a clear start and stop to the trip, and you end up where you started without backtracking. You won&#39;t find things on a grand scale here, but there&#39;s a little bit of everything in an island-sized package. It&#39;s a world tour in miniature you can feel accomplished about (though you might want to take a train for one stretch).</p>
