@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "World Cycling Tour Europe"
-categories: [ ,  ]
-image: 
-tags: []
+categories: [Cycling]
+image: https://64.media.tumblr.com/79b4e56c7af5ef3a309b8607beed6782/c5d52787a4b36409-5e/s1280x1920/03b7cc7498820758c9eb14535a250fd467138269.jpg
+tags: [France, Germany]
 ---
 
 Portugal to Andorra

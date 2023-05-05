@@ -5,12 +5,11 @@ categories: [USA, Cycling]
 image: https://64.media.tumblr.com/7b22f95ac8fc753650e008413102624d/11f540256d474e07-b4/s540x810/d72d08bb480131dbe88d1d0ae60bae1094f43dbb.jpg
 tags: [World Tour, USA, Film]
 ---
+<img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/d8505902ac54cb25b6cfaff625cd5450/7c24fe46274cce0c-86/s500x750/d78d2b39b9aaf6e7615de884c003db465705b40b.jpg" />
 
 <h2>Seattle to Idaho</h2>
-
+<p></p>
 <a href="https://64.media.tumblr.com/79027e06c409e6876ae3a2c89435c76b/11f540256d474e07-98/s500x750/7ec934d24b82b1b48c2bd809dd45dacf2d2af269.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/79027e06c409e6876ae3a2c89435c76b/11f540256d474e07-98/s500x750/7ec934d24b82b1b48c2bd809dd45dacf2d2af269.jpg" /></a>
-
-  
 <div class="columns">
   <div class="img1">
   <a href="https://64.media.tumblr.com/5b5dd94a1c3e7e88af255e3cd8029208/11f540256d474e07-03/s1280x1920/5956b84476a5140fe28c78ac8e18f2d5140e13b2.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/5b5dd94a1c3e7e88af255e3cd8029208/11f540256d474e07-03/s1280x1920/5956b84476a5140fe28c78ac8e18f2d5140e13b2.jpg" /></a>
