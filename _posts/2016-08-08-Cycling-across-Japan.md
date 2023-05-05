@@ -12,10 +12,11 @@ tags: [Japan, cycling, featured]
 
 
 <p class="jumbotron" style="text-align: center; padding: 2rem 1rem;">
-Distance: 1330mi (2140km)  
+Distance: 1330mi (2140km)<br>
+Days: 23<br>
+Days Wild Camped: 19<br>  
 Hottest: 97°F (36°C) Koka, July 30<br>
 Furthest: 100mi (160km) Oshu to Sanohe<br>
-Days Slept Outside: 19<br>
 Number of mosquito bites: ∞<br>
 &nbsp;<br>
 
