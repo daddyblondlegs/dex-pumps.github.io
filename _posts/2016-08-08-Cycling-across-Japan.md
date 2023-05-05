@@ -18,8 +18,8 @@ Furthest: 100mi (160km) Oshu to Sanohe<br>
 Days Slept Outside: 19<br>
 Number of mosquito bites: ∞<br>
 &nbsp;<br>
-<a href="https://64.media.tumblr.com/6311570fd224f8876cb540e17aabeeb7/tumblr_ocmjmrUhy91ubdk8fo1_1280.jpg" target="_self" style="color: #e11107">Bike+Gear</a>
-<iframe allowfullscreen="" src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&amp;datalayers=702962#6/36.642/139.065" style="position: relative;right: 30%;padding-block: 10px;" width="150%" height="400px" frameborder="0"></iframe>
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/my-first-amazing-world-explorer_269968?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=774089#6/36.642/139.065"></iframe>
 <p>&nbsp;</p>
 
 <a href="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg"><img src="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg" /></a>
