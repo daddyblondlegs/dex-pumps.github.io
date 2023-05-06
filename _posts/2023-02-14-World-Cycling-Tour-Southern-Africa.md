@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World Cycling Tour: Africa"
+title:  "World Cycling Tour: Southern Africa"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/5c5c501d755c3507a45fdc963deab076/0875d5ee7e36b55a-77/s2048x3072/79f331b676dc2645d16b11ea651f842bfddcf8fd.jpg
 tags: [World Tour, Africa, Cycling]
@@ -8,11 +8,10 @@ tags: [World Tour, Africa, Cycling]
 <h2>Capetown to Windhoek</h2>
 
 <div class="columns">
-   <div class="img1"><a href="https://64.media.tumblr.com/8b5015da970e39094a23119b1cef2e4a/0eb979a7f420c5e0-0e/s2048x3072/1622e6e0da0877ba2957049d8991faab40300969.jpg"><img src="https://64.media.tumblr.com/8b5015da970e39094a23119b1cef2e4a/0eb979a7f420c5e0-0e/s2048x3072/1622e6e0da0877ba2957049d8991faab40300969.jpg" /></a>
-   
+  <div class="img1"><a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg"><img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" /></a>
+</div> 
+<div class="img2"><a href="https://64.media.tumblr.com/15a9897834aea90595bb320f3656d8c8/0875d5ee7e36b55a-a7/s2048x3072/dbfa2f307304ec72797d224d7d9de6601f44a328.jpg"><img src="https://64.media.tumblr.com/15a9897834aea90595bb320f3656d8c8/0875d5ee7e36b55a-a7/s2048x3072/dbfa2f307304ec72797d224d7d9de6601f44a328.jpg" /></a> 
   </div>
-   <div class="img2"><a href="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg"><img src="https://64.media.tumblr.com/a5459c5ac0b08236ebb637c8bfc48eea/0875d5ee7e36b55a-2b/s2048x3072/55177d3a681dec62dc55072a997b80976e73ac00.jpg" /></a>
-</div>
    <div class="img3"><a href="https://64.media.tumblr.com/2e2dd62d288dfdff04d6737d3da495ea/0875d5ee7e36b55a-dc/s2048x3072/ae98abf46f36d2e564567ceca2ddfcf3e7a14a9b.jpg"><img src="https://64.media.tumblr.com/2e2dd62d288dfdff04d6737d3da495ea/0875d5ee7e36b55a-dc/s2048x3072/ae98abf46f36d2e564567ceca2ddfcf3e7a14a9b.jpg" /></a>
 </div>
   </div>

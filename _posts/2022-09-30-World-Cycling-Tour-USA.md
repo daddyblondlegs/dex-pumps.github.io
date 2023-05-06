@@ -6,9 +6,9 @@ image: https://64.media.tumblr.com/7b22f95ac8fc753650e008413102624d/11f540256d47
 tags: [World Tour, USA, Film, Cycling]
 ---
 
-<h2>Seattle to Idaho</h2>
-May 13, 2022
-<p></p>
+<p><h2>Seattle to Idaho</h2>
+May 13, 2022</p>
+
 <a href="https://64.media.tumblr.com/79027e06c409e6876ae3a2c89435c76b/11f540256d474e07-98/s2048x3072/c68cbc8556f2df146a92ec3fc82c7c392e0aa86c.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/79027e06c409e6876ae3a2c89435c76b/11f540256d474e07-98/s2048x3072/c68cbc8556f2df146a92ec3fc82c7c392e0aa86c.jpg" /></a>
 
 <div class="columns">
@@ -28,7 +28,6 @@ May 13, 2022
   <a href="https://64.media.tumblr.com/04efa415a7cfa99dcb0b6a715f7bb304/11f540256d474e07-c8/s2048x3072/500c0c27014c8989b49b03c83bd1dc3302a727f2.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/04efa415a7cfa99dcb0b6a715f7bb304/11f540256d474e07-c8/s2048x3072/500c0c27014c8989b49b03c83bd1dc3302a727f2.jpg" /></a>
   </div>
 
-  <!---->
   <div class="img2">
 <a href="https://64.media.tumblr.com/1c10b89a7a7383d5efd940a8badfc627/11f540256d474e07-32/s2048x3072/d1edbed829ae6f714f5b87f89764dd7a4d2f3342.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/1c10b89a7a7383d5efd940a8badfc627/11f540256d474e07-32/s2048x3072/d1edbed829ae6f714f5b87f89764dd7a4d2f3342.jpg" /></a>
  </div>
@@ -59,7 +58,7 @@ Didn't spool the film correctly.
   <a href="https://64.media.tumblr.com/2acb57c485855c85d01f002ed4aca068/7b8241f50ccef935-2b/s2048x3072/d4f626bf3e9884ced586287327edcd76c3fe1127.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/2acb57c485855c85d01f002ed4aca068/7b8241f50ccef935-2b/s2048x3072/d4f626bf3e9884ced586287327edcd76c3fe1127.jpg" /></a>
   </div>
   <div class="img2">
-<a href="https://64.media.tumblr.com/c6826aa3c0295927cd5bd83c42ea6bba/7b8241f50ccef935-90/s2048x3072/276f263c2c778306ad963b02f31e7836e3cf3232.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/c6826aa3c0295927cd5bd83c42ea6bba/7b8241f50ccef935-90/s2048x3072/276f263c2c778306ad963b02f31e7836e3cf3232.jpg.jpg" /></a>
+<a href="https://64.media.tumblr.com/c6826aa3c0295927cd5bd83c42ea6bba/7b8241f50ccef935-90/s2048x3072/276f263c2c778306ad963b02f31e7836e3cf3232.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/c6826aa3c0295927cd5bd83c42ea6bba/7b8241f50ccef935-90/s2048x3072/276f263c2c778306ad963b02f31e7836e3cf3232.jpg" /></a>
   </div>
   </div>
 <div class="columns">
@@ -78,9 +77,11 @@ Didn't spool the film correctly.
   <div class="img2">
 <a href="https://64.media.tumblr.com/5bc178c15c4419dcad10aad097ac7121/7b8241f50ccef935-f3/s2048x3072/c240aec01fe336cb2372af38c7b54775737b5eae.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/5bc178c15c4419dcad10aad097ac7121/7b8241f50ccef935-f3/s2048x3072/c240aec01fe336cb2372af38c7b54775737b5eae.jpg" /></a>
  </div>
+ <div class="img3">
  <a href="https://64.media.tumblr.com/6cd32eaeeb63a190637c9071431a4362/7b8241f50ccef935-ad/s2048x3072/ccf2c81ccef46b32916539ed044225c80d81999b.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/6cd32eaeeb63a190637c9071431a4362/7b8241f50ccef935-ad/s2048x3072/ccf2c81ccef46b32916539ed044225c80d81999b.jpg" /></a>
   </div>  
   </div>
+
 <div class="columns">
   <div class="img1">
   <a href="https://64.media.tumblr.com/661c753d8737bc5874a9ca7860b3ea7f/7b8241f50ccef935-10/s2048x3072/80a00c186cbb6df2827ffa65ed7103cd4fec2162.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/661c753d8737bc5874a9ca7860b3ea7f/7b8241f50ccef935-10/s2048x3072/80a00c186cbb6df2827ffa65ed7103cd4fec2162.jpg" /></a>
@@ -120,8 +121,9 @@ Didn't spool the film correctly.
   </div> 
   </div>
  
- Missouri to DC
-(These are the only 4 that "turned out")  
+ <p><h2>Missouri to DC</h2>
+(These are the only ones that "turned out")</p>
+
 <div class="columns">
   <div class="img1">
  <a href="https://64.media.tumblr.com/7eb8e2fcb0404858a39e23d429286654/7c24fe46274cce0c-e4/s2048x3072/daf0b426391172d95a9a94bde0d6a4fc4732dd97.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/7eb8e2fcb0404858a39e23d429286654/7c24fe46274cce0c-e4/s2048x3072/daf0b426391172d95a9a94bde0d6a4fc4732dd97.jpg" /></a>
