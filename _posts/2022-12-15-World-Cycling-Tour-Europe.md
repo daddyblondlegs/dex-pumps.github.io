@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "World Cycling Tour Western Europe"
+title:  "World Cycling Tour: Western Europe"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg
 tags: [World Tour, France, Germany, Film, Cycling
