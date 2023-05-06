@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ""
-categories: [ ,  ]
-image: 
-tags: []
+title:  "World Cycling Tour: Africa"
+categories: [World Tour, Cycling]
+image: https://64.media.tumblr.com/5c5c501d755c3507a45fdc963deab076/0875d5ee7e36b55a-77/s2048x3072/79f331b676dc2645d16b11ea651f842bfddcf8fd.jpg
+tags: [World Tour, Africa, Cycling]
 ---
 <h2>Capetown to Windhoek</h2>
 

@@ -3,7 +3,7 @@ layout: post
 title:  "World Cycling Tour: Eastern Europe"
 categories: [World Tour, Cycling]
 image: https://64.media.tumblr.com/15fef40ecc6342e26d1c3bf6eca9f1de/0eb979a7f420c5e0-54/s540x810/c82bf07de4ad8761df94dfbf3f804090a6b0a4b4.jpg
-tags: [World Tour, Greece, Film]
+tags: [World Tour, Greece, Film, Cycling]
 ---
 
   <div class="columns">
