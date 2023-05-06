@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "World Cycling Tour Europe"
-categories: [Cycling]
-image: 
-tags: [France, Germany]
+title:  "World Cycling Tour Western Europe"
+categories: [World Tour, Cycling]
+image: https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg
+tags: [World Tour, France, Germany, Film]
 ---
 
-Portugal to Andorra
+<h2>Portugal to Andorra</h2>
 
 <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/97cc593f4fca00576dbf6eb59e94b2eb/9d38c6a8b86410f9-b3/s500x750/5b7256dd5a7fcdf5cc6212e36b8702cd814d5c94.jpg" /></a>
@@ -41,7 +41,7 @@ Portugal to Andorra
 
 <a href="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/f0a514d1e75d3aea771b6a092d837366/9d38c6a8b86410f9-ea/s500x750/ad83f795bbea8a6c40982f86099e957fe671d64e.jpg" /></a>
 
-France to Germany
+<h2>France to Germany</h2>
 
 <div class="columns">
   <div class="img1"><img alt="image" class="image post_media_photo" src="https://64.media.tumblr.com/a8d51acb76d9f9065feaa78f54bf528c/c5d52787a4b36409-50/s500x750/61c5619a327ecb4d4bdda54c9bbf339b755daa8f.jpg" />
