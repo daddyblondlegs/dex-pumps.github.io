@@ -5,11 +5,7 @@ categories: [World, Cycling]
 image: https://64.media.tumblr.com/15fef40ecc6342e26d1c3bf6eca9f1de/0eb979a7f420c5e0-54/s540x810/c82bf07de4ad8761df94dfbf3f804090a6b0a4b4.jpg
 tags: [Romania, Greece]
 ---
-div class="columns">
-  <div class="img1"><a href="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg"><img src="https://64.media.tumblr.com/280b22feadc199aa3bf060d467b4acb8/tumblr_ocjfvaVUJk1ubdk8fo8_r1_1280.jpg" /></a>
 
-  </div>
-  
   <div class="columns">
   <div class="img1"><a href="https://64.media.tumblr.com/8b5015da970e39094a23119b1cef2e4a/0eb979a7f420c5e0-0e/s2048x3072/1622e6e0da0877ba2957049d8991faab40300969.jpg"><img src="https://64.media.tumblr.com/8b5015da970e39094a23119b1cef2e4a/0eb979a7f420c5e0-0e/s2048x3072/1622e6e0da0877ba2957049d8991faab40300969.jpg 2048w" /></a>
 
