@@ -11,7 +11,7 @@ tags: [Romania, Greece]
 
   </div>
   
-  <div class="img2"><a href="https://64.media.tumblr.com/4422ad3a6ce6f5c5b9e591b51f999a34/0eb979a7f420c5e0-e8/s2048x3072/f4739b8d9a699d7ac1eadd9ed01c87b6212d56d6.jpg"><img src="https://64.media.tumblr.com/4422ad3a6ce6f5c5b9e591b51f999a34/0eb979a7f420c5e0-e8/s2048x3072/f4739b8d9a699d7ac1eadd9ed01c87b6212d56d6.jpg 2048w" /></a>
+  <div class="img2"><a href="https://64.media.tumblr.com/4422ad3a6ce6f5c5b9e591b51f999a34/0eb979a7f420c5e0-e8/s2048x3072/f4739b8d9a699d7ac1eadd9ed01c87b6212d56d6.jpg"><img src="https://64.media.tumblr.com/4422ad3a6ce6f5c5b9e591b51f999a34/0eb979a7f420c5e0-e8/s2048x3072/f4739b8d9a699d7ac1eadd9ed01c87b6212d56d6.jpg" /></a>
 
   </div>
   
