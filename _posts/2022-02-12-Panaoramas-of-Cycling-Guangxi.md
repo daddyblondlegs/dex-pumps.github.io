@@ -3,7 +3,7 @@ layout: post
 title:  "Gorgeous Panoramas of Cycling Guangxi"
 categories: [China]
 image: https://64.media.tumblr.com/a6603b3fa9e3ef3f36a452ab20491098/04758f5f60a9d123-62/s1280x1920/82b236021b86b47b040bfde3cbe7e27683bc2b81.jpg
-tags: [China, cycling, Guangxi]
+tags: [China, Cycling, Guangxi, Videos]
 ---
 
 <p>Guangxi (West Guang) is the province next door to Guangdong (East Guang) where I live. Much less developed, but way more scenic. Most people who've been to Southern China have visited the Lijiang River running through a karst -  hilly mountains. The rape flower (yeah, that's why Canadian farmers renamed it "Canola") is in full bloom creating seas of yellow along the road. The draw to the color is almost insectile.</p>
