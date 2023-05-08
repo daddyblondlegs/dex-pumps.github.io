@@ -11,7 +11,7 @@ permalink: "/videos.html"
   <div class="col-md-8 main-loop">
       
       <h4 class="font-weight-bold spanborder" style="margin-bottom: 1rem;"><span>Travel Videos</span></h4>
-      <h5 class="pt-0 pb-0 mt-3 mb-2rem position-relative"><span> They're getting better! Sometimes the best way to tell a story is to utilize the all the wonderful aspects of visuals. There's an art how to boil down the monotony of cycling into an <em>eau de vie</em> that captures why I love doing it!  </span></h5>
+      <h5 class="pt-0 pb-0 mt-3 mb-2rem position-relative" style="font-weight: 200;"><span> They're getting better! Sometimes the best way to tell a story is to utilize the all the wonderful aspects of visuals. There's an art how to boil down the monotony of cycling into an <em>eau de vie</em> that captures why I love doing it!  </span></h5>
       <span style="display:inline-block; width: 10px;"></span>
     <ul>
     {% for post in site.posts %}
@@ -26,8 +26,8 @@ permalink: "/videos.html"
             </p>
             <small class="d-block text-muted">
               In <span class="catlist">
-              {% for category in post.categories %}
-              <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+              {% for tags in post.tags %}
+              <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/tags.html#{{ tags | downcase }}">{{ tags }}</a><span class="sep">, </span>
               {% endfor %}
               </span>
             </small>
