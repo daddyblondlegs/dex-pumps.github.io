@@ -3,6 +3,7 @@ layout: post
 title:  "Forced to take a Covid test in China"
 categories: [China, Cycling ]
 image: assets/images/ForcedCovidTest.png
+video:
 tag: [China]
 ---
 

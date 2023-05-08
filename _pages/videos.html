@@ -8,7 +8,7 @@ permalink: "/videos.html"
 
 <div class="page-content">
    
-  <div class="col-md-8 main-loop">
+  <div class="col-md-10 main-loop">
       
       <h4 class="font-weight-bold spanborder" style="margin-bottom: 1rem;"><span>Travel Videos</span></h4>
       <h5 class="pt-0 pb-0 mt-3 mb-2rem position-relative" style="font-weight: 200;"><span> They're getting better! Sometimes the best way to tell a story is to utilize the all the wonderful aspects of visuals. There's an art how to boil down the monotony of cycling into an <em>eau de vie</em> that captures why I love doing it!  </span></h5>
@@ -18,7 +18,7 @@ permalink: "/videos.html"
       {% if post.tags contains "Videos" %}
         <div class="mb-5 d-flex justify-content-between">
           <div class="pr-3">
-            <h2 class="mb-1 h4 font-weight-bold">
+            <h2 class="mb-1 h5 font-weight-bold">
             <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
             </h2>
             <p class="excerpt">
@@ -36,10 +36,9 @@ permalink: "/videos.html"
             </small>
           </div>
           {% if post.image %}
-            <div class="col-md-3 pr-0 text-right">
+          <div class="ml-1" style="width: 500%;">
             <a href="{{site.baseurl}}{{post.url}}">
-           <img class="w-100" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
-            <video class="w-100" src="{% if post.video contains "://" %}{{ post.video }}{% else %}{{ site.baseurl }}/{{ post.video }}{% endif %}" alt="{{ post.title }}">
+           <video controls class="" src="{% if post.video contains "://" %}{{ post.video }}{% else %}{{ site.baseurl }}/{{ post.video }}{% endif %}" alt="{{ post.title }}"></video>
 
           </a>
             </div>
