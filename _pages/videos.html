@@ -26,8 +26,8 @@ permalink: "/videos.html"
             </p>
             <small class="d-block text-muted">
               In <span class="catlist">
-              {% for tags in post.tags %}
-              <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/tags.html#{{ tags | downcase }}">{{ tags }}</a><span class="sep">, </span>
+              {% for tag in post.tags %}
+              <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag }}</a><span class="sep">, </span>
               {% endfor %}
               </span>
             </small>
