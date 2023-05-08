@@ -32,10 +32,6 @@ people wanting to ride around a nearby lake, not the island. They were still mor
 willing to rent out a new, high quality bike for 18 days for
 $85; that includes everything.</p>
 
-<p>The markers in this map tell the story better than any long form blog post. The red markers are sleeping spots, and the icons are highlights.</p>
-<p>&nbsp;</p>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jvXjToPQihOVmUOWe11rNXULKfk&ehbc=2E312F" width="640" height="480"></iframe>
-<p>&nbsp;</p>
 <p>Circling the island isn&rsquo;t super adventurous in-and-of-itself and people can
 do it in as little as 9 days (i.e. those fragile cycling groups who have a
 support car for all of their luggage). My route involved mountains and
