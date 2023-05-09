@@ -311,6 +311,7 @@ window.onload = function () {
 // Imape Map Resize (end)
 
 //Scroll to top
+var bike = document.getElementById('bike');
 $(document).ready(function(){ 
     $(window).scroll(function(){ 
         if ($(this).scrollTop() > 100) { 
@@ -319,10 +320,10 @@ $(document).ready(function(){
             $('#scroll').fadeOut(); 
         } 
     }); 
+    
     $('#scroll').click(function(){ 
         //$("html, body").animate({ scrollTop: 0 }, 600); 
         //return false;
-        var bike = document.getElementById('bike');
         bike.scrollIntoView();
     }); 
 });
