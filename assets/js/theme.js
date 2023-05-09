@@ -320,8 +320,10 @@ $(document).ready(function(){
         } 
     }); 
     $('#scroll').click(function(){ 
-        $("html, body").animate({ scrollTop: 0 }, 600); 
-        return false; 
+        //$("html, body").animate({ scrollTop: 0 }, 600); 
+        //return false;
+        var bike = document.getElementById('bike');
+        bike.scrollIntoView();
     }); 
 });
 //Scroll to top (end)

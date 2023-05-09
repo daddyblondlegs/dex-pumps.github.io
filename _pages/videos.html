@@ -13,11 +13,11 @@ permalink: "/videos.html"
       <h4 class="font-weight-bold spanborder" style="margin-bottom: 1rem;"><span>Travel Videos</span></h4>
       <h5 class="pt-0 pb-0 mt-3 mb-2rem position-relative" style="font-weight: 200;"><span> They're getting better! Sometimes the best way to tell a story is to utilize the all the wonderful aspects of visuals. There's an art how to boil down the monotony of cycling into an <em>eau de vie</em> that captures why I love doing it!  </span></h5>
       <span style="display:inline-block; width: 10px;"></span>
-    <ul>
+    <ul style="padding-left: 0px;">
     {% for post in site.posts %}
       {% if post.tags contains "Videos" %}
         <div class="mb-5 d-flex justify-content-between">
-          <div class="pr-3">
+          <div class="pr-3" style="max-width: 500px;">
             <h2 class="mb-1 h5 font-weight-bold">
             <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
             </h2>
@@ -36,14 +36,15 @@ permalink: "/videos.html"
             </small>
           </div>
           {% if post.image %}
-          <div class="ml-1" style="width: 500%;">
+        </div>  
+          <div class="ml-1">
             <a href="{{site.baseurl}}{{post.url}}">
-           <video controls class="" src="{% if post.video contains "://" %}{{ post.video }}{% else %}{{ site.baseurl }}/{{ post.video }}{% endif %}" alt="{{ post.title }}"></video>
+           <video controls class="pt-0" src="{% if post.video contains "://" %}{{ post.video }}{% else %}{{ site.baseurl }}/{{ post.video }}{% endif %}" alt="{{ post.title }}"></video>
 
           </a>
             </div>
           {% endif %}
-          </div>
+          
       {% endif %}
     {% endfor %}
     </ul>
