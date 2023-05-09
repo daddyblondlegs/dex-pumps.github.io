@@ -3,6 +3,7 @@ layout: post
 title:  "Enshi to Chongqing - Chinese New Years"
 categories: [ China, Cycling ]
 image: assets/images/enshi_to_chongqing_cycling_map.jpg
+video: https://va.media.tumblr.com/tumblr_r7aa49L1Kf1ubdk8f.mp4
 tag: [Cycling, featured, Videos]
 ---
 My last big trip in October went halfway across Hubei Province to the Three Gorges Dam, and just beyond that is EnShi. Its elegant black building complex was a scroll-stopper on a travel site I frequent, and I knew I had to go back. To its southwest lies Chongqing, a large city that was also always on the backburner of places to go. Were the roads flat between the two, it would only take 3 days to bike the distance – pepper in some stops and you could do it in a week. Yet after 3 days fighting steep slopes and snow in the mountains, I’d only gone a day’s worth.

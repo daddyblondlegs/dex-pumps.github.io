@@ -3,6 +3,7 @@ layout: post
 title:  "Gorgeous Panoramas of Cycling Guangxi"
 categories: [China]
 image: https://64.media.tumblr.com/a6603b3fa9e3ef3f36a452ab20491098/04758f5f60a9d123-62/s1280x1920/82b236021b86b47b040bfde3cbe7e27683bc2b81.jpg
+video: https://va.media.tumblr.com/tumblr_qoymnsGu6j1ubdk8f_720.mp4
 tags: [China, Cycling, Guangxi, Videos]
 ---
 
