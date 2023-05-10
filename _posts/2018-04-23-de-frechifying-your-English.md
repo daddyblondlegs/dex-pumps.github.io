@@ -2,7 +2,7 @@
 layout: post
 title:  "De-Frechifying your English"
 categories: [France]
-image: assets/images/frenchdoors.jpg
+image: /assets/images/frenchdoors.jpg
 tags: [France, Thoughts, Language]
 ---
 

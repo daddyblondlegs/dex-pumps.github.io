@@ -2,7 +2,7 @@
 layout: post
 title:  "Enshi to Chongqing - Chinese New Years"
 categories: [ China, Cycling ]
-image: assets/images/enshi_to_chongqing_cycling_map.jpg
+image: /assets/images/enshi_to_chongqing_cycling_map.jpg
 video: https://va.media.tumblr.com/tumblr_r7aa49L1Kf1ubdk8f.mp4
 tag: [Cycling, featured, Videos]
 ---

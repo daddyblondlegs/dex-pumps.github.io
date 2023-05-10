@@ -2,7 +2,7 @@
 layout: post
 title:  "Cycling to Covid's Ground Zero"
 categories: [China, Cycling]
-image: https://va.media.tumblr.com/tumblr_r0t4fof84f1ubdk8f.mp4
+image: https://64.media.tumblr.com/9ed2f1744e4f2c223ea9445a8742e3f0/9907ab8cffc8d91f-4a/s540x810/52ac94cd4cddb33d07d1c5ce16456ed9501a8b6b.jpg
 video: https://va.media.tumblr.com/tumblr_r0t4fof84f1ubdk8f.mp4
 tags: [China, Videos]
 ---

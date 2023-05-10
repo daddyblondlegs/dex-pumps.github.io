@@ -184,7 +184,7 @@ description: "Bicycle touring news and gear reviews."
             <div class="col-md-8 col-md-offset-2">
                 <nav class="pagination" role="pagination">     
             
-            <span class="page-link">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+            <span class="" style="position: relative;display: block;padding: 0.55rem .8rem;margin-left: -1px;line-height: 1.25;color: #333;background-color: #fff;border: 1px solid #c1c2c3;">{{ paginator.page }} of {{ paginator.total_pages }}</span>
             {% if site.paginate_path != 'page:num'%}
             {% assign paginate_url = site.paginate_path | remove:'/page:num' %}
             {% if paginator.previous_page %}

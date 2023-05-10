@@ -654,7 +654,7 @@ footer {
 
 
 .main-loop .main-loop-card:nth-child(-n+5) {
-	display:none !important;
+	/*display:none !important;*/
 
 }
 .excerpt {
