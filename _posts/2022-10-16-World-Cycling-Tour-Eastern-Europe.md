@@ -67,16 +67,13 @@ tags: [World Tour, Greece, Film, Cycling]
   </div>
   
   <div class="img2"><a href="https://64.media.tumblr.com/b924da9e54bc3cab2dda290930d1f39a/0eb979a7f420c5e0-01/s2048x3072/20393e47f56a70c4f96a2f50c2c81d02c0f17776.jpg"><img src="https://64.media.tumblr.com/b924da9e54bc3cab2dda290930d1f39a/0eb979a7f420c5e0-01/s2048x3072/20393e47f56a70c4f96a2f50c2c81d02c0f17776.jpg" /></a>
-
   </div>
-  
   <div class="img3"><a href="https://64.media.tumblr.com/a4344c2b7b2f03cd95861658facc349f/0eb979a7f420c5e0-4b/s2048x3072/234213cbfa774e5b3f347b4dd8754e9f29db1c5c.jpg"><img src="https://64.media.tumblr.com/a4344c2b7b2f03cd95861658facc349f/0eb979a7f420c5e0-4b/s2048x3072/234213cbfa774e5b3f347b4dd8754e9f29db1c5c.jpg" /></a>
-
   </div>
    </div>
    
  <a href="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg"><img src="https://64.media.tumblr.com/2e8b90983326ba4f7db28d0a73d07c6a/0eb979a7f420c5e0-03/s2048x3072/47a9b2290796789fc79bc098125a8a686df770ab.jpg" /></a>
-</div>
+
 
 <div class="columns">
   <div class="img1">
@@ -89,7 +86,7 @@ tags: [World Tour, Greece, Film, Cycling]
   <a href="https://64.media.tumblr.com/7fd80fb1e67e31b6625d62c1f786702d/ab4e002728f0a0bb-fb/s2048x3072/3a0e59fc2cc8e23b74b59050f8f6577532ed2852.jpg"><img src="https://64.media.tumblr.com/7fd80fb1e67e31b6625d62c1f786702d/ab4e002728f0a0bb-fb/s2048x3072/3a0e59fc2cc8e23b74b59050f8f6577532ed2852.jpg" /></a>
 </div>
 </div>
-</div>
+
 <div class="columns">
   <div class="img1">
   <a href="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg"><img src="https://64.media.tumblr.com/5966c5fa1c3d8dab6501ff3283e53092/ab4e002728f0a0bb-ac/s2048x3072/c33544733a7fe30d42efc6b7f7acb549f34b53cf.jpg" /></a>

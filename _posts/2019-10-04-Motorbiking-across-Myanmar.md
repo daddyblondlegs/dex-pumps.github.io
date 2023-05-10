@@ -60,12 +60,11 @@ Temples of all sizes and configurations rose from fields at random. There were s
 
 Even if you happened to be the only person at Ankor Wat or Lhasa, the surrounding development would shatter the illusion that you were the first explorer. Granted, the stalls selling handicrafts and sundries around bigger structures did give off a tourist vibe, but elsewhere, it felt as if the world had yet to discover Bagan.
 <p>&nbsp;</p>
-<a href="https://64.media.tumblr.com/e89ea984c2ae7c946f512bb1bfdf685a/9518687a4b89445e-eb/s2048x3072/0992e599533f2eb36ac0ae870022d7d57afbfe8e.jpg" ><img src="https://64.media.tumblr.com/e89ea984c2ae7c946f512bb1bfdf685a/9518687a4b89445e-eb/s2048x3072/0992e599533f2eb36ac0ae870022d7d57afbfe8e.jpg" /></a>
 
+<a href="https://64.media.tumblr.com/e89ea984c2ae7c946f512bb1bfdf685a/9518687a4b89445e-eb/s2048x3072/0992e599533f2eb36ac0ae870022d7d57afbfe8e.jpg" ><img src="https://64.media.tumblr.com/e89ea984c2ae7c946f512bb1bfdf685a/9518687a4b89445e-eb/s2048x3072/0992e599533f2eb36ac0ae870022d7d57afbfe8e.jpg" /></a>
 <div class="columns">
   <div class="img1">
   <a href="https://64.media.tumblr.com/2cc5f8e73675c1782a453f223869bb5e/9518687a4b89445e-c5/s2048x3072/cdee953d623a1df21a79b11211902e3ea49e6745.jpg" ><img src="https://64.media.tumblr.com/2cc5f8e73675c1782a453f223869bb5e/9518687a4b89445e-c5/s2048x3072/cdee953d623a1df21a79b11211902e3ea49e6745.jpg" /></a>
-
   </div>
   <div class="img2">
 <a href="https://64.media.tumblr.com/c2edb7092ae0da2436a863d00db38d85/9518687a4b89445e-3a/s2048x3072/27ed9b642e07d7ccb1f86921fcae93dcf236100f.jpg" ><img src="https://64.media.tumblr.com/c2edb7092ae0da2436a863d00db38d85/9518687a4b89445e-3a/s2048x3072/27ed9b642e07d7ccb1f86921fcae93dcf236100f.jpg" /></a>
@@ -74,8 +73,6 @@ Even if you happened to be the only person at Ankor Wat or Lhasa, the surroundin
 <a href="https://64.media.tumblr.com/52050ccab70c0e51610d71bf917cce20/9518687a4b89445e-5d/s2048x3072/3ab5d49733d32261db94bfad3fd948a89c70226a.jpg" ><img src="https://64.media.tumblr.com/52050ccab70c0e51610d71bf917cce20/9518687a4b89445e-5d/s2048x3072/3ab5d49733d32261db94bfad3fd948a89c70226a.jpg" /></a>
   </div>
   </div>
-
-
 <a href="https://64.media.tumblr.com/55cfadad0ed0096b72eeec9beeb86325/9518687a4b89445e-ae/s2048x3072/89ef79d7ee04ef2003e3385a8d6cd918ca84fb4e.jpg" ><img src="https://64.media.tumblr.com/55cfadad0ed0096b72eeec9beeb86325/9518687a4b89445e-ae/s2048x3072/89ef79d7ee04ef2003e3385a8d6cd918ca84fb4e.jpg" /></a>
 
 <a href="https://64.media.tumblr.com/d44f12f38276c9520b38d34114825a18/9518687a4b89445e-da/s2048x3072/f56e148f1513ed9f74ad703c6d8ac31d198fab8f.jpg" ><img src="https://64.media.tumblr.com/d44f12f38276c9520b38d34114825a18/9518687a4b89445e-da/s2048x3072/f56e148f1513ed9f74ad703c6d8ac31d198fab8f.jpg" /></a>
@@ -142,7 +139,7 @@ He said he’d give me 200 to take a bus at which point I felt immediately taken
 <p>&nbsp;</p>
 <a href="https://64.media.tumblr.com/65a4d8e5c02d7931fa6b553e7ccc060e/9518687a4b89445e-b6/s2048x3072/5daa56d6ad1843b7659ae1528d837dc2a3a1cee8.jpg" ><img src="https://64.media.tumblr.com/65a4d8e5c02d7931fa6b553e7ccc060e/9518687a4b89445e-b6/s2048x3072/5daa56d6ad1843b7659ae1528d837dc2a3a1cee8.jpg" /></a>
 
-<em class="center">(the guy in the picture isn’t him)</em>
+<em style="text-align:center">(not him)</em>
 <p>&nbsp;</p>
 The whole thing made absolutely no sense. How did I go from getting 15 cents to losing forty dollars? It still feels like a dream. It’s also still baffling and angering, and it was all because I wasn’t thinking straight from getting mad about something else. It could have been worse though. It wasn’t my wallet, phone, or passport. I couldn't let these instances cast a dark shadow over the rest of my trip and began to consider the good that came from this. If forty dollar helps me better appreciate the city I live in now, where this sort of thing never happens, then so be it. I can honestly say, I’m a little happier living here knowing how else it could be. This experience will help me think twice about getting upset over the little things and remember how good I have it.
 

@@ -54,7 +54,9 @@ tags: [Vietnam, Motorcycle, featured]
 
 <p>Our bikes were constantly having problems. Mine stopped working after I drove it into a guardrail. It seemed like we were at a mechanics every three days, but looking back it was all part of the fun. One night, my bike wouldn&#39;t start because we&#39;d just filled it with gas from a water bottle. It was the only option out in rural villages. We were stranded and without a place to stay. While asking if we could sleep at the school across the street, the town&#39;s mayor invited us to eat dinner with his family. We joined the rest of the family in an out-building to awkwardly eat their food without being able to communicate much. After the meal, they showed us to a guest room, and the three of us slept in a massive bed. The next morning, we realize how fortunate we were to have broken down here. We&#39;d almost ridden through one of the most beautiful parts of the trip in the dark.</p>
 
-<a href="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg"><img src="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg" /></a><div class="columns">
+<a href="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg"><img src="https://64.media.tumblr.com/c7ddd046bc95eaf8f9067949f18bdf4b/tumblr_n14qkvGb971swz9s8o4_1280.jpg" /></a>
+
+<div class="columns">
   <div class="img1">
    <a href="https://64.media.tumblr.com/1e417ecbd316ba977a5139b902057b20/tumblr_n14qkvGb971swz9s8o7_1280.jpg"><img src="https://64.media.tumblr.com/1e417ecbd316ba977a5139b902057b20/tumblr_n14qkvGb971swz9s8o7_1280.jpg" /></a>
   </div>
