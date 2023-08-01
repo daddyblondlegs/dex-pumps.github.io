@@ -3,7 +3,7 @@ name: 'daddyblondlegs'
 description: 'I'm a tour cyclist that travels around the world, and I want to share my experiences with bicycle parts, touring gear, and cultures'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://dex-pumps.github.io/'
+baseurl: '/'
 disqus: 'demowebsite'
 email: 'daddyblondlegs@gmail.com'
 mailchimp-list: 
@@ -21,7 +21,7 @@ plugins:
 authors:
     Daddy:
       name:           Daddy
-      site:           https://dex-pumps.github.io/
+      site:           https://dex-pump.com
       avatar:         /assets/images/avatar1.jpg
       bio:            "Get me outta here!"
       email:          daddyblondlegs@gmail.com
