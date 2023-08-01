@@ -1,9 +1,9 @@
 # Site
 name: 'daddyblondlegs'
-description: 'I'm a tour cyclist that travels around the world, and I want to share my experiences with bicycle parts, touring gear, and cultures'
+description: 'Dex-Pump is an Oklahoma City based startup seeking an operator in the OK Mississippian Play to test their innovative pump.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
+baseurl: 'dex-pump.com/'
 disqus: 'demowebsite'
 email: 'daddyblondlegs@gmail.com'
 mailchimp-list: 
@@ -12,7 +12,7 @@ title: Architect theme
 description: Architect is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-archite
+theme: jekyll-theme-architect
 
 include: ["_pages"]
 permalink: /:title/
